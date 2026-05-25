@@ -1,0 +1,1083 @@
+sn,german,english,flag
+1,das Parkhaus,,green
+2,der Stadt,,green
+3,der Parkplatz,,green
+4,das E-Bike,,green
+5,der TÜV,,green
+6,telef,,red
+7,abstellen versichert,,green
+8,erreic,,red
+9,die Fahrt,,green
+10,die Versicherung,,green
+11,löser,,red
+12,regis,,red
+13,flexibel,,green
+14,die Linie,,green
+15,die Zugfahrt,,green
+16,der Radfahrer,,green
+17,das Bordbistro,,green
+18,der Radweg,,green
+19,das Kinderabteil,,green
+20,die Ex,,green
+21,die Seilbahn,,green
+22,die Monatskarte,,green
+23,das Pr,,green
+24,die Platzreservierung,,green
+25,das Chaos,,green
+26,die Ur,,green
+27,der Stau,,green
+28,die Luft,,green
+29,zeigen,,green
+30,weiter,,green
+31,die Me,,green
+32,der Me,,green
+33,die Großstadt,,green
+34,die Innenstadt,,green
+35,die Kombination,,green
+36,abfliegen,,green
+37,die Konsequenz,,green
+38,das Konzept,,green
+39,der Abflug,,green
+40,das Fahrzeug,,green
+41,das Kfz,,green
+42,das der Artik,,yellow
+43,einen Weg,,green
+44,der Zeiti,,red
+45,der Pkw,,green
+46,die Beschreibung,,green
+47,das Kennzeichen,,green
+48,der Kind,,green
+49,der Motor,,green
+50,der Reifen,,green
+51,die Panne,,green
+52,die Richtung,,green
+53,bremsen,,green
+54,vorwärts,,green
+55,die Garage,,green
+56,das Navi,,green
+57,das Benzin,,green
+58,der Diesel,,green
+59,tanken vorbei,,green
+60,die Tankstelle,,green
+61,die Kreuzung,,green
+62,den Bu,,green
+63,die Ampel,,green
+64,halten,,green
+65,einen Service,,green
+66,die Mama,,green
+67,der Kundenservice,,green
+68,die Stadtbesichtigung,,green
+69,telefonisch,,green
+70,der Konzertsaal,,green
+71,erreichen klatschen,,green
+72,lösen,,green
+73,das Gewitter,,green
+74,registrieren,,green
+75,die Kaution,,green
+76,die PIN,,green
+77,der Zug,,green
+78,die Expertin,,green
+79,das Prozent,,green
+80,die SMS,,green
+81,der Tarif,,green
+82,die Untersuchung,,green
+83,die Werbung,,green
+84,allgemein,,green
+85,die Meinung,,green
+86,der Meinung,,green
+87,dafür sein unpraktisch,,green
+88,unterschiedlich,,green
+89,dagegen sein setzen,,green
+90,versprechen,,green
+91,der Artikel,,green
+92,ein Artikel,,green
+93,der Zeitung,,green
+94,der Kinderwagen,,green
+95,einen Parkplatz,,green
+96,ein passendes Verb,,green
+97,eine App,,green
+98,den Bus,,green
+99,dem Zug,,green
+100,die Energie,,green
+101,die Gitarre,,green
+102,das Klavier,,green
+103,das Instrument,,green
+104,das Interesse,,green
+105,klug,,green
+106,die Bücherei,,green
+107,der Arbeitgeber,,green
+108,der Kursleiter,,green
+109,-anstellen,,green
+110,der,,green
+111,die Lehrende,,green
+112,die Vollzeit,,green
+113,die Lernende,,green
+114,die Sprechstunde,,green
+115,das Sekretariat,,green
+116,der Auftrag,,green
+117,der PC,,green
+118,die Autorin,,green
+119,der Babysitter,,green
+120,die Konferenz,,green
+121,die Prüferin,,green
+122,der Workshop,,green
+123,schriftlich zusammenarbeiten,,green
+124,die Schrift,,green
+125,die Einführung,,green
+126,die Rente,,green
+127,der Stoff,,green
+128,die Seniorin,,green
+129,die Disziplin,,green
+130,das Stipendium,,green
+131,der Dolmetscher,,green
+132,die Übersetzung,,green
+133,der Ratschlag,,green
+134,die Beratung,,green
+135,die Förderung,,green
+136,bieten,,green
+137,geboten kommunizieren,,green
+138,das Feedback,,green
+139,die Kommunikation,,green
+140,der Trick,,green
+141,der Zeitplan,,green
+142,die Aktion,,green
+143,starten,,green
+144,die Freiwillige,,green
+145,sorgen,,green
+146,der Service,,green
+147,die Mitteilung,,green
+148,existieren,,green
+149,reparieren,,green
+150,die Reparatur,,green
+151,das Werkzeug,,green
+152,wegwerfen,,green
+153,beschweren,,green
+154,fett,,green
+155,eine Präsentation,,green
+156,vortragen,,green
+157,die Hälfte,,green
+158,die Menge,,green
+159,die Qualität,,green
+160,der Katalog,,green
+161,die Einleitung,,green
+162,der Prospekt,,green
+163,die Gliederung,,green
+164,das Herz,,green
+165,der Hauptteil,,green
+166,die Figur,,green
+167,der Inhalt,,green
+168,das Mineralwasser,,green
+169,der Punkt,,green
+170,die Zitrone,,green
+171,der Schluss,,green
+172,die Portion,,green
+173,flüssig tagsüber,,green
+174,die Zuhörerin,,green
+175,die Mitternacht,,green
+176,der Wald,,green
+177,die Angehörige,,green
+178,-notwendig,,green
+179,das Standesamt,,green
+180,das Forum,,green
+181,abonnieren übrigens,,green
+182,die Mailbox,,green
+183,einen Zeitplan,,green
+184,den Stoff,,green
+185,einen Ratschlag,,green
+186,der Schläger,,green
+187,die Sportart,,green
+188,der Skistock,,green
+189,das Paddel,,green
+190,das Kajak,,green
+191,das Surfbrett,,green
+192,das Kitesurfen,,green
+193,die Taucherbrille,,red
+194,surfen,,green
+195,langlaufen,,green
+196,der Sportverein,,green
+197,die Mannschaft,,green
+198,das Tor,,green
+199,der Fußballstar,,green
+200,schießen,,green
+201,der Fanartikel,,red
+202,ein Tor,,green
+203,werfen,,green
+204,den Ball,,green
+205,das Rad,,green
+206,die Radtour,,green
+207,das Vorbild,,green
+208,reiten,,green
+209,der Kletterer,,green
+210,-genial,,green
+211,die Kletterin,,green
+212,die Wanderung,,green
+213,der Wahnsinn,,green
+214,die Strecke,,green
+215,die Kondition,,green
+216,Das war wahnsinnig gut,,green
+217,die Hoffnung,,green
+218,die Gesundheit,,green
+219,der Erfolg,,green
+220,die Enttäuschung,,green
+221,der Wettbewerb,,green
+222,der Fußballschuh,,green
+223,die Katastrophe,,green
+224,der Klettergurt,,green
+225,der Helm,,green
+226,die Matte,,green
+227,sollen,,green
+228,das Mountainbike,,green
+229,einverstanden sein,,green
+230,die Anreise,,green
+231,der Einwohner,,green
+232,-außer,,green
+233,die Einwohnerin,,green
+234,das Gasthaus,,green
+235,die Kette,,green
+236,das Material,,green
+237,das Gebiet,,green
+238,die Umgebung,,green
+239,der Nationalpark,,green
+240,das Tal,,green
+241,der Staat,,green
+242,die Höhle,,green
+243,der Kanton,,green
+244,der Führer,,green
+245,der Cousin,,green
+246,einem Führer,,green
+247,die die Cousine,,green
+248,die Sendung,,green
+249,die Führerin,,green
+250,eine Antwort,,green
+251,die Temperatur,,green
+252,der Hinweis,,green
+253,der Nebel,,green
+254,-neulich,,green
+255,einen Helm,,green
+256,den Bergen,,green
+257,ein Spiel,,green
+258,der Blumentopf,,green
+259,der Briefkasten,,green
+260,das Zuhause,,green
+261,das Päckchen,,green
+262,der Bauernhof,,green
+263,die Ferienwohnung,,green
+264,der Lärm,,green
+265,der Bauer,,green
+266,den Lärm,,green
+267,bitte,,green
+268,der Stadtrand,,green
+269,das,,green
+270,das Hausboot,,green
+271,ein Fest,,green
+272,das Ufer,,green
+273,das Sommerfest,,green
+274,dem Wasser,,green
+275,die Torte,,green
+276,nass,,green
+277,der Wein,,green
+278,das Poster,,green
+279,der Lampion,,green
+280,die Kerze,,green
+281,der Luxus,,green
+282,das Spielzeug,,green
+283,das Gartenhaus,,green
+284,der Roller,,green
+285,dem Roller,,green
+286,der Altbau,,green
+287,das Stockwerk,,green
+288,das Kissen,,green
+289,der Keller,,green
+290,das Dach,,green
+291,der Boden,,green
+292,den Baum,,green
+293,die Länge,,green
+294,die Breite,,green
+295,die Höhe,,green
+296,die Fläche,,green
+297,der Quadratmeter,,green
+298,die Mieterin,,green
+299,der Mitbewohner,,green
+300,möbliert,,green
+301,die Nebenkosten,,green
+302,der Wohnung,,green
+303,gießen,,green
+304,gossen gespannt,,green
+305,auskennen,,green
+306,aus,,green
+307,kündigen,,green
+308,herlgeben,,red
+309,das Haustier,,green
+310,die Katze,,green
+311,zurücklaufen,,green
+312,das Kätzchen,,green
+313,der Vogel,,green
+314,die Zulassung,,green
+315,die Ratte,,green
+316,die Maus,,green
+317,der Hase,,green
+318,die Kuh,,green
+319,das Schaf,,green
+320,das Schwein,,green
+321,der Bär,,green
+322,die Besitzerin,,green
+323,das Futter,,green
+324,füttern zumindest,,green
+325,dick,,green
+326,die Vergangenheit,,green
+327,der Stil,,green
+328,der Tierarzt,,green
+329,die Veränderung,,green
+330,einem Bild,,green
+331,einen kurzen Text,,green
+332,vergehen,,green
+333,Die Zeit vergeht schnell. interessieren,,green
+334,die Ehe,,green
+335,die Hausfrau,,green
+336,der Hausmann,,green
+337,backen,,green
+338,einen Kuchen,,green
+339,das Zimmer,,green
+340,der Hand,,green
+341,verreisen,,green
+342,den letzten Ausflug,,green
+343,entlassen,,green
+344,das Feuer,,green
+345,behalten,,green
+346,das Gas,,green
+347,die Heizung,,green
+348,heizen,,green
+349,der Werktag,,green
+350,der Export,,green
+351,der Strom,,green
+352,der Import,,green
+353,die Hektik,,green
+354,die Frist,,green
+355,der Helfer,,green
+356,die Helferin,,green
+357,der Notfall,,green
+358,das Handy,,green
+359,einem Notfall,,green
+360,die Polizei,,green
+361,die Unterkunft,,green
+362,das Einkaufszentrum,,green
+363,-zentren,,red
+364,verbringen,,green
+365,verbringt,,green
+366,der Familie,,green
+367,träumen,,green
+368,die Lücke,,green
+369,verzichten,,green
+370,das Mitleid,,green
+371,das Sprichwort,,green
+372,die Erklärung,,green
+373,der Alkohol,,green
+374,das Gold,,green
+375,der Rat,,green
+376,einen Rat,,green
+377,herein kommen,,green
+378,kommt herein,,green
+379,brechen,,green
+380,den Lebensphasen,,green
+381,das Berufsleben,,green
+382,die Schulzeit,,green
+383,die Reihe,,green
+384,die Unterhaltung,,green
+385,der Warenkorb,,green
+386,die Mehrwertsteuer,,green
+387,die Gesellschaft,,green
+388,das Werk,,green
+389,das Schloss,,green
+390,der König,,green
+391,die Vorwahl,,green
+392,die Königin,,green
+393,die Führung,,green
+394,die Versandkosten,,green
+395,eine Führung,,green
+396,die Gebühr,,green
+397,der Roman,,green
+398,die Zahlungsart,,green
+399,der Bestseller,,green
+400,die Überweisung,,green
+401,jährlich,,green
+402,die Verfilmung,,green
+403,die Meldung,,green
+404,die Prominente,,green
+405,der Nachrichtensprecher,,green
+406,die Nachrichtensprecherin,,green
+407,das Festival,,green
+408,der Hörer,,green
+409,der Hit,,green
+410,die Hörerin,,green
+411,der Musikstil,,green
+412,der Einsatz,,green
+413,die Stimme,,green
+414,die Stille,,green
+415,rockig verschlafen,,green
+416,der Sammler,,green
+417,die Stimmung,,green
+418,die Sammlerin,,green
+419,der Campingplatz,,green
+420,das Schnäppchen,,green
+421,die Übernachtung,,green
+422,die Verpflegung,,green
+423,der Wert,,green
+424,der Rucksack,,green
+425,ein Ticket,,green
+426,der Kauf,,green
+427,der Stehplatz,,green
+428,der Sitzplatz,,green
+429,das Quiz,,green
+430,die Malerei,,green
+431,die Kriminalität,,green
+432,der Titel,,green
+433,dem Bild,,green
+434,dem Titel,,green
+435,die Gewalt,,green
+436,die Bedeutung,,green
+437,der Ausblick,,green
+438,schlecht gelaunt sein,,green
+439,das Meer,,green
+440,das Blatt,,green
+441,unendlich,,green
+442,hübsch,,green
+443,abschließend,,green
+444,abstrakt,,green
+445,erhalten,,green
+446,der Vordergrund,,green
+447,die Hauptrolle,,green
+448,der Hintergrund,,green
+449,der Wanderer,,green
+450,die Wanderin,,green
+451,die Stelle,,green
+452,die Rückfrage,,green
+453,der Supermarkt,,green
+454,unter anderem,,green
+455,abmalen,,green
+456,das Bild,,green
+457,erleben,,green
+458,der Trainer,,green
+459,die Tätigkeit,,green
+460,einen Termin,,green
+461,beraten,,green
+462,den Beruf,,green
+463,der Berufswunsch,,green
+464,der Ärger,,green
+465,der Neuanfang,,green
+466,die Bahn,,green
+467,der Fahrplan,,green
+468,die Zugverbindung,,green
+469,die Durchsage,,green
+470,die Chance,,green
+471,der Wagen,,green
+472,eine Chance,,green
+473,die Geschäftsreise,,green
+474,der Schalter,,green
+475,die Umwelt,,green
+476,die Hinfahrt,,green
+477,das Plastik,,green
+478,die Rückfahrt,,green
+479,zurück kommen,,green
+480,kommt zurück,,green
+481,das Gehalt,,green
+482,das Risiko,,green
+483,die Klasse,,green
+484,die Übersetzerin,,green
+485,eine Fahrtkarte,,green
+486,die der Chirurg,,green
+487,die Oberärztin,,green
+488,der Leiter,,green
+489,der Gang,,green
+490,der Lastwagen,,green
+491,der Lkw,,green
+492,das Stadtprogramm,,green
+493,die Ermäßigung,,green
+494,die Freiheit,,green
+495,preiswert,,green
+496,die Band,,green
+497,der Musiker,,green
+498,das Telefonat,,green
+499,die Sängerin,,green
+500,der Anrufer,,green
+501,das Album,,green
+502,der Anrufbeantworter,,green
+503,sich konzentrieren,,green
+504,helfen,,green
+505,ein Blatt,,green
+506,lächeln mobil,,green
+507,das Wissen,,green
+508,die Kompetenz,,green
+509,hinterlassen,,green
+510,lebenslang,,green
+511,die Hausarbeit,,green
+512,zurückrufen,,green
+513,also gut,,green
+514,die moderne Arbeitswelt,,green
+515,der Arbeitstag,,green
+516,der Betrieb,,green
+517,die Fabrik,,green
+518,komisch,,green
+519,die Maschine,,green
+520,der Roboter,,green
+521,-unnötig,,green
+522,die Digitalisierung,,green
+523,virtuell einige,,green
+524,das Bier,,green
+525,zunehmen,,green
+526,der Schritt,,green
+527,der Austausch,,green
+528,der Feiertag,,green
+529,das Jahrhundert,,green
+530,die Zusammenarbeit,,green
+531,eine gute Zugverbindung,,green
+532,aussteiger,,red
+533,die Aushilfe,,green
+534,das Verkehrsmittel,,green
+535,die Gäste,,green
+536,öffentlich hat au,,green
+537,der Fahrer,,green
+538,die,,green
+539,die Fahrerin,,green
+540,die Zutat,,green
+541,transportieren de,,green
+542,der Behörde,,green
+543,das Amt,,green
+544,die Feuerwehr,,green
+545,die Behörde,,green
+546,die Sicherheit,,green
+547,der Beamte,,green
+548,die die Beamtin,,green
+549,ein paar Dinge,,green
+550,die Operation,,green
+551,ein Formular,,green
+552,die Straßenreinigung,,green
+553,der Antrag,,green
+554,die Ordnung,,green
+555,einen Antrag,,green
+556,der Müll,,green
+557,die Müllabfuhr,,green
+558,die Einbürgerung,,green
+559,die Mülltonne,,green
+560,das Dokument,,green
+561,die Mülltonnen,,green
+562,der Personalausweis,,green
+563,die Stellenanzeige,,green
+564,sich bewerben,,green
+565,den Pass,,green
+566,das Vorstellungs,,red
+567,das Visum,,green
+568,ein Visum,,green
+569,die Unterlagen,,green
+570,die Kenntnis,,green
+571,die Grenze,,green
+572,die Teilzeit,,green
+573,der Bank,,green
+574,die Bezahlung,,green
+575,die Angestellte,,green
+576,der Lohn,,green
+577,der Bescheid,,green
+578,der Betrag,,green
+579,einen Betrag,,green
+580,auslgeben,,red
+581,der Dom,,green
+582,die Disco,,green
+583,ein Konto,,green
+584,die Bankkarte,,green
+585,sperren hat gebeten,,green
+586,der Kredit,,green
+587,der Gefallen,,green
+588,die Geldbörse,,green
+589,einen Gefallen,,green
+590,leihen,,green
+591,das Beste,,green
+592,die Nächste,,green
+593,der Polizei,,green
+594,der Fan,,green
+595,der Diebstahl,,green
+596,der Daumen,,green
+597,die Daumen,,green
+598,modern,,green
+599,funktionieren,,green
+600,eine Stadt-Tour,,green
+601,der Gedanke,,green
+602,der Stadtplan,,green
+603,die Ruhe,,green
+604,der Tourist,,green
+605,die Entspannung,,green
+606,die Touristin,,green
+607,ein Job,,green
+608,der Politiker,,green
+609,dem Studium,,green
+610,die Politikerin,,green
+611,das Parlament,,green
+612,das Gesetz,,green
+613,die Verwaltung,,green
+614,das Gebäude,,green
+615,das Wunder,,green
+616,einen Monat,,green
+617,einen Personalweis,,red
+618,die Geburt,,green
+619,die Laune,,green
+620,sich aus,,green
+621,die Liebe,,green
+622,die Geburtstagsparty,,green
+623,der Schultag,,green
+624,die Freude,,green
+625,der Führerschein,,green
+626,sich unt,,red
+627,die Führerschein,,green
+628,ein Glück,,green
+629,bestehen,,green
+630,mich mi,,green
+631,der Club,,green
+632,das Brautpaar,,green
+633,der Ring,,green
+634,das Bedauern,,green
+635,der Sieg,,green
+636,die Medaille,,green
+637,entschie,,red
+638,das Feuerwerk,,green
+639,die Glückwunschkarte,,green
+640,die Karte,,green
+641,die Absage,,green
+642,stehen,,green
+643,der Karte,,green
+644,unglücklich,,green
+645,das Gefühl,,green
+646,die Emotion,,green
+647,die andere Währung,,green
+648,tauschen uns über unsere inzwischen,,green
+649,das Frühjahr,,green
+650,fallen,,green
+651,das Gegenteil,,green
+652,sich unterhalten,,green
+653,das Wohnheim,,green
+654,unterhält,,green
+655,der Verkehr,,green
+656,der Party,,green
+657,die Währung,,green
+658,anbieten,,green
+659,sich aus ruhen niemand,,green
+660,sprechen,,green
+661,bewundern hilfsbereit,,green
+662,sich entscheiden,,green
+663,ordentlich,,green
+664,entschieden weltweit,,green
+665,unterrichten wenn,,green
+666,wegfahren,,green
+667,eine Einladung,,green
+668,einer Hochzeit,,green
+669,genauso praktisch wie das,,green
+670,der Vergleich,,green
+671,ein Start-Up,,green
+672,die Studierende,,green
+673,privat dass,,green
+674,das Start-Up,,green
+675,die Umfrage,,green
+676,der Actionfilm,,green
+677,der Fantasy-Film,,green
+678,die Komödie,,green
+679,der Liebesfilm,,green
+680,die Filmmusik,,green
+681,der Thriller,,green
+682,blöd,,green
+683,der E-Book-Reader,,green
+684,das Smartphone,,green
+685,die Spielekonsole,,green
+686,der Bildschirm,,green
+687,der Lautsprecher,,green
+688,das E-Book,,green
+689,der Laptop,,green
+690,das Radio,,green
+691,das Tablet,,green
+692,die Tastatur,,green
+693,die Webseite,,green
+694,der Kontakt,,green
+695,lädt herunter,,green
+696,der Blogbeitrag,,red
+697,das Kabel,,green
+698,der Link,,green
+699,nah,,green
+700,näher,,green
+701,am nächsten,,green
+702,die Freundschaft,,green
+703,die Sorge,,green
+704,die Enkelin,,green
+705,die Kindheit,,green
+706,überhaupt,,green
+707,das Schicksal,,green
+708,mancher,,green
+709,fröhlich schwierig vorsichtig,,green
+710,der Enkel,,green
+711,das Tier,,green
+712,plötzlich unbedingt,,green
+713,tot zuletzt,,green
+714,die Buchstaben,,green
+715,die Hauptperson,,green
+716,die Handlung,,green
+717,en dumm,,green
+718,dümmer,,green
+719,der Humor,,green
+720,der Trailer,,green
+721,das Talent,,green
+722,der Witz,,green
+723,gewonnen dümmsten,,green
+724,der Th,,green
+725,die Mail,,green
+726,die App,,green
+727,das Foto,,green
+728,real,,green
+729,der Hotelkaufmann,,green
+730,die Krankenschwester,,green
+731,die Auszubildende,,green
+732,die Berufserfahrung,,green
+733,die Arztpraxis,,green
+734,die Grundschule,,green
+735,die Hauptschule,,green
+736,die Gesamtschule,,green
+737,die Realschule,,green
+738,die Berufsschule,,green
+739,das Schulsystem,,green
+740,das Bundesland,,green
+741,die Arzthelferin,,green
+742,das Gymnasium,,green
+743,der Altenpfleger,,green
+744,der Englischlehrer,,green
+745,die Hotelkauffrau,,green
+746,der Krankenpfleger,,green
+747,die Gärtnerin,,green
+748,die Arbeitswelt,,green
+749,die Erfahrung,,green
+750,das Handwerk,,green
+751,die Werbeagentur,,green
+752,das Reisebüro,,green
+753,die AG,,green
+754,das Au-pair,,green
+755,der Grafiker,,green
+756,der Azubi,,green
+757,die Lehre,,green
+758,die Messe,,green
+759,der Schulabschluss,,green
+760,der Abschluss,,green
+761,die Direktorin,,green
+762,die Schülerin,,green
+763,der Klasse,,green
+764,das Klassenzimmer,,green
+765,die Unterrichtszeit,,green
+766,die Cafeteria,,green
+767,der Stundenplan,,green
+768,die Fremdsprache,,green
+769,die Klassenfahrt,,green
+770,die Schuluniform,,green
+771,die Vorbereitung,,green
+772,der Schulweg,,green
+773,der Vokabeltest,,green
+774,das Abitur,,green
+775,das Zeugnis,,green
+776,der Direktor,,green
+777,die Dauer,,green
+778,die Ferien,,green
+779,der Schüler,,green
+780,das Fach,,green
+781,einhunderteins,,green
+782,ausschlafen,,green
+783,die Grafik,,green
+784,die Behinderung,,green
+785,verlieren,,green
+786,der Rollstuhl,,green
+787,die Erholung,,green
+788,die Erinnerung,,green
+789,die Weltreise,,green
+790,erwachsen unabhängig,,green
+791,sozial,,green
+792,eine Vorlesung,,green
+793,das Das,,green
+794,die Gemeinsamkeit,,green
+795,Das sehe ich anders,,green
+796,die Vorlesung,,green
+797,die Hauptsache,,green
+798,der Unterschied,,green
+799,zustimmen überraschen wenigstens,,green
+800,teilnehmen,,green
+801,liegen,,green
+802,empfangen,,green
+803,der Platz,,green
+804,einen Plan,,green
+805,anmelden,,green
+806,der Flohmarkt,,green
+807,dem Sofa,,green
+808,der Aufenthalt,,green
+809,die Reservierung,,green
+810,spätestens weiter,,green
+811,der Verein,,green
+812,absagen zusagen gemeinsam organisieren,,green
+813,der Eingang,,green
+814,informieren weiterhelfen,,green
+815,die Zigarette,,green
+816,das WC,,green
+817,bitter salzig sauer scharf,,green
+818,wone,,red
+819,abschließen,,green
+820,die Hochzeit,,green
+821,die Rentnerin,,green
+822,die Ausbildung,,green
+823,geboren sein geschieden,,green
+824,der Rentner,,green
+825,die Überstunde,,green
+826,der Augenoptiker,,green
+827,die Bankkauffrau,,green
+828,das Stadtzentrum,,green
+829,dem Land,,green
+830,vor,,green
+831,zusammenleben,,green
+832,die Note,,green
+833,weitersuchen,,green
+834,das Apartment,,green
+835,wohnen,,green
+836,eine Sprache,,green
+837,fließend sprechen,,green
+838,die Kollegen,,green
+839,die Angst,,green
+840,die Sätze,,green
+841,der Gegenstand,,green
+842,der Sinn,,green
+843,der Bruder,,green
+844,fast,,green
+845,er einer,,green
+846,das E-Bike der TÜV,,green
+847,die Fahrt die Versicherung,,green
+848,die Linie die Zugfahrt,,green
+849,das Bordbistro von U,,green
+850,das Kinderabteil die Ex,,green
+851,die Monatskarte das Pr,,green
+852,das Chaos pendeln die Ur,,green
+853,er fährt,,green
+854,die Kombination Autos il,,green
+855,er fliegt ab,,green
+856,die Konsequenz ist abgeflogen dafür st,,green
+857,das Konzept der Abflug,,green
+858,das Fahrzeug landen andere,,green
+859,das Kfz / das der Artik,,yellow
+860,der Motor gegenüber von,,green
+861,die Panne die Richtung,,green
+862,das Navi rückwärts,,green
+863,der Diesel vorbeilgehen,,yellow
+864,er geht,,green
+865,die Tankstelle die Kreuzung,,green
+866,er hält,,green
+867,hat gehalten,,green
+868,einen Service nutzen,,green
+869,der Kundenservice die Stadtbesichtigung,,green
+870,die Expertin schon mal,,green
+871,das Prozent die SMS,,green
+872,die Untersuchung die Werbung,,green
+873,die Meinung sagen ewig,,green
+874,er verspricht,,green
+875,er hat vor,,green
+876,das Klavier unternehmen,,green
+877,er unter,,green
+878,hat unternommen,,green
+879,er verschiebt,,green
+880,das Interesse hat verschoben,,green
+881,die Bücherei der Arbeitgeber,,green
+882,die Sprechstunde freiberuflich,,green
+883,das Sekretariat stundenweise,,green
+884,die Schrift pensioniert,,green
+885,die Einführung die Rente,,green
+886,der Stoff die Seniorin,,green
+887,die Disziplin dolmetschen,,green
+888,er bietet,,green
+889,hat neutral bleiben,,green
+890,das Feedback die Kommunikation,,green
+891,der Service die Mitteilung,,green
+892,die Reparatur zurecht kommen,,green
+893,er kommt zurecht,,green
+894,das Werkzeug zurechtgekommen,,green
+895,er wirft weg,,green
+896,hat weggeworfen dabei haben,,green
+897,eine Präsentation halten einzeln,,green
+898,eine Präsentation halten erforderlich,,green
+899,er trägt vor,,green
+900,die Einleitung der Prospekt,,green
+901,die Gliederung das Herz,,green
+902,der Hauptteil die Figur,,green
+903,der Inhalt das Mineralwasser,,green
+904,der Punkt die Zitrone,,green
+905,die Zuhörerin die Mitternacht,,green
+906,das Standesamt prima,,green
+907,die Sportart der Skistock,,green
+908,das Kajak das Surfbrett,,green
+909,das Kitesurfen die Taucherbrille,,yellow
+910,er läuft lang,,green
+911,das Tor der Fußballstar,,green
+912,er schießt,,green
+913,er wirft,,green
+914,hat treu,,green
+915,er benimmt,,green
+916,hat benommen,,green
+917,die Radtour das Vorbild,,green
+918,er reitet,,green
+919,ist geritten sympathisch,,green
+920,der Wettbewerb verlieren,,green
+921,er verliert,,green
+922,der Fußballschuh die Katastrophe,,green
+923,der Helm Vorschläge machen,,green
+924,die Matte Was denkst du,,green
+925,das Mountainbike wir,,green
+926,die Einwohnerin ausfallen,,green
+927,er fällt aus,,green
+928,das Gebiet zurückgeben,,green
+929,er gibt,,green
+930,die Umgebung zurück,,green
+931,hat zurückgegeben,,green
+932,der Nationalpark bewachen,,green
+933,die Höhle der Kanton,,green
+934,das Zuhause das Päckchen,,green
+935,er stinkt,,green
+936,er kommt,,green
+937,ist vorgekommen,,green
+938,das Hausboot ein Fest vorbereiten,,green
+939,der Luxus das Spielzeug,,green
+940,das Stockwerk das Kissen,,green
+941,er hängt,,green
+942,die Fläche Zimmer tauschen,,green
+943,er zieht ein,,green
+944,ist eingezogen,,green
+945,er gießt,,green
+946,hat ge,,red
+947,er kennt,,green
+948,hat ausgekannt modisch,,green
+949,er gibt her,,green
+950,das Haustier weglaufen,,green
+951,er läuft weg,,green
+952,ist weggelaufen,,green
+953,er läuft,,green
+954,ist zurückgelaufen,,green
+955,die Ratte Zulassung zum Studium,,green
+956,der Hase per,,green
+957,das Schaf schmutzig,,green
+958,die Besitzerin nie mehr,,green
+959,das Futter zum Teil,,green
+960,er vergeht,,green
+961,die Ehe Wofür interessierst du,,green
+962,die Hausfrau dich,,green
+963,er vorbereiten,,green
+964,einen Kuchen backen kümmern,,green
+965,er entlässt,,green
+966,er behält,,green
+967,der Export der Strom,,green
+968,der Import die Hektik,,green
+969,die Frist der Helfer,,green
+970,hat verbracht besitzen,,green
+971,er besitzt,,green
+972,das Gold betrunken,,green
+973,er meist,,green
+974,ist vor allem,,green
+975,er bricht,,green
+976,das Berufsleben die F,,green
+977,die Unterhaltung der Warenkorb,,green
+978,das Werk zuzüglich,,green
+979,er inklusive,,green
+980,der König die Vorwahl,,green
+981,die Königin Mobil,,green
+982,eine Führung mitge,,yellow
+983,der Roman die Zahlungsart,,green
+984,die Verfilmung Meldungen,,green
+985,das Festival -nen,,green
+986,der Hit die Hörerin,,green
+987,er verschläft,,green
+988,die Stimmung die Sammlerin,,green
+989,ein Ticket online kaufen,,green
+990,er knapp,,green
+991,er fällt auf,,green
+992,er erhält,,green
+993,einen Termin einhalten professionell,,green
+994,er berät,,green
+995,die Zugverbindung mehr,,green
+996,die Hinfahrt das Plastik,,green
+997,die Rückfahrt erfolgreich,,green
+998,die Klasse die Übersetzerin,,green
+999,eine Fahrtkarte für die der Chirurg,,green
+1000,die Ermäßigung die Freiheit,,green
+1001,die Band telefonieren,,green
+1002,die Sängerin der Anrufer,,green
+1003,er hilft mit,,green
+1004,er hinterlässt,,green
+1005,er ruft zurück,,green
+1006,die moderne Arbeitswelt auf keinen Fall,,green
+1007,der Betrieb möglich,,green
+1008,die Fabrik häufig,,green
+1009,er nimmt zu,,green
+1010,der Austausch der Feiertag,,green
+1011,eine gute Zugverbindung suchen,,green
+1012,die Fahrerin die Zutat,,green
+1013,die Polizei bei der Behörde,,green
+1014,er le,,red
+1015,die Feuerwehr die Behörde g,,green
+1016,die Sicherheit der Beamte,,green
+1017,die Müllabfuhr die Einbürgerung,,green
+1018,die Mülltonne das Dokument,,green
+1019,er gibt ab,,green
+1020,einen job suchen der Personalausweis,,yellow
+1021,die Stellenanzeige beantragen,,green
+1022,er bewirbt,,green
+1023,das Vorstellungs- das Visum,,yellow
+1024,die Bezahlung der/die Angestellte,,green
+1025,er hebt ab,,green
+1026,einen Betrag überweisen,,green
+1027,er gibt aus,,green
+1028,die Bankkarte bitten,,green
+1029,er bittet,,green
+1030,der Kredit der Gefallen,,green
+1031,die Geldbörse um einen Gefallen bitten,,green
+1032,er leiht,,green
+1033,hat dringend,,green
+1034,die Liebe tausche,,green
+1035,die Geburtstagsparty Erfahru,,yellow
+1036,der Führerschein Das ist ja toll,,green
+1037,er besteht,,green
+1038,der Club hat ange sich streiten,,yellow
+1039,er streitet,,green
+1040,das Brautpaar hat gestritten sich aus,,green
+1041,der Sieg Schade! sich ents,,yellow
+1042,das Feuerwerk Das macht nichts. unterrich,,yellow
+1043,die Karte aufregend,,green
+1044,ihr genervt,,green
+1045,die Absage stolz,,green
+1046,er steht,,green
+1047,er fällt,,green
+1048,ist gefallen,,green
+1049,er bietet an,,green
+1050,hat angeboten kostenlos,,green
+1051,er spricht nirgends,,green
+1052,hat ausgesprochen fremd,,green
+1053,er entscheidet,,green
+1054,hat wahr,,green
+1055,er fährt weg,,green
+1056,der Vergleich ein Start-Up gründen,,green
+1057,die Komödie der Liebesfilm,,green
+1058,er lädt hoch,,green
+1059,die Enkelin die Kindheit sterben,,green
+1060,er stirbt,,green
+1061,er gewinnt,,green
+1062,die Hotelkauffrau der Krankenpfleger,,green
+1063,die Gärtnerin die Arbeitswelt,,green
+1064,das Handwerk die Werbeagentur,,green
+1065,das Au-pair der Grafiker,,green
+1066,die Unterrichtszeit die Cafeteria,,green
+1067,er schläft aus,,green
+1068,die Vorlesung die Meinung sagen,,green
+1069,er nimmt teil,,green
+1070,er liegt,,green
+1071,ist geritten,,green
+1072,er empfängt,,green
+1073,er hilft,,green
+1074,er schließt ab,,green
+1075,hat abgeschlossen,,green
+1076,die Hochzeit die Rentnerin die Ausbildung,,green
+1077,die Überstunde der Augenoptiker,,green
+1078,er schlägt,,green
+1079,hat vorgeschlagen achtundachtzig,,green
+1080,er ruft,,green
+1081,hat gerufen,,green
+1082,der Sinn das Handy,,green

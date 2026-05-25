@@ -1,0 +1,1052 @@
+1	das Parkhaus
+2	der Stadt
+3	der Parkplatz
+4	das E-Bike
+5	der TÜV
+6	abstellen versichert
+7	die Fahrt
+8	die Versicherung
+9	flexibel
+10	die Linie
+11	die Zugfahrt
+12	der Radfahrer
+13	das Bordbistro
+14	der Radweg
+15	das Kinderabteil
+16	die Ex
+17	die Seilbahn
+18	die Monatskarte
+19	das Pr
+20	die Platzreservierung
+21	das Chaos
+22	die Ur
+23	der Stau
+24	die Luft
+25	zeigen
+26	weiter
+27	die Me
+28	der Me
+29	die Großstadt
+30	die Innenstadt
+31	die Kombination
+32	abfliegen
+33	die Konsequenz
+34	das Konzept
+35	der Abflug
+36	das Fahrzeug
+37	das Kfz
+38	einen Weg
+39	der Pkw
+40	die Beschreibung
+41	das Kennzeichen
+42	der Kind
+43	der Motor
+44	der Reifen
+45	die Panne
+46	die Richtung
+47	bremsen
+48	vorwärts
+49	die Garage
+50	das Navi
+51	das Benzin
+52	der Diesel
+53	tanken vorbei
+54	die Tankstelle
+55	die Kreuzung
+56	den Bu
+57	die Ampel
+58	halten
+59	einen Service
+60	die Mama
+61	der Kundenservice
+62	die Stadtbesichtigung
+63	telefonisch
+64	der Konzertsaal
+65	erreichen klatschen
+66	lösen
+67	das Gewitter
+68	registrieren
+69	die Kaution
+70	die PIN
+71	der Zug
+72	die Expertin
+73	das Prozent
+74	die SMS
+75	der Tarif
+76	die Untersuchung
+77	die Werbung
+78	allgemein
+79	die Meinung
+80	der Meinung
+81	dafür sein unpraktisch
+82	unterschiedlich
+83	dagegen sein setzen
+84	versprechen
+85	der Artikel
+86	ein Artikel
+87	der Zeitung
+88	der Kinderwagen
+89	einen Parkplatz
+90	ein passendes Verb
+91	eine App
+92	den Bus
+93	dem Zug
+94	die Energie
+95	die Gitarre
+96	das Klavier
+97	das Instrument
+98	das Interesse
+99	klug
+100	die Bücherei
+101	der Arbeitgeber
+102	der Kursleiter
+103	-anstellen
+104	der
+105	die Lehrende
+106	die Vollzeit
+107	die Lernende
+108	die Sprechstunde
+109	das Sekretariat
+110	der Auftrag
+111	der PC
+112	die Autorin
+113	der Babysitter
+114	die Konferenz
+115	die Prüferin
+116	der Workshop
+117	schriftlich zusammenarbeiten
+118	die Schrift
+119	die Einführung
+120	die Rente
+121	der Stoff
+122	die Seniorin
+123	die Disziplin
+124	das Stipendium
+125	der Dolmetscher
+126	die Übersetzung
+127	der Ratschlag
+128	die Beratung
+129	die Förderung
+130	bieten
+131	geboten kommunizieren
+132	das Feedback
+133	die Kommunikation
+134	der Trick
+135	der Zeitplan
+136	die Aktion
+137	starten
+138	die Freiwillige
+139	sorgen
+140	der Service
+141	die Mitteilung
+142	existieren
+143	reparieren
+144	die Reparatur
+145	das Werkzeug
+146	wegwerfen
+147	beschweren
+148	fett
+149	eine Präsentation
+150	vortragen
+151	die Hälfte
+152	die Menge
+153	die Qualität
+154	der Katalog
+155	die Einleitung
+156	der Prospekt
+157	die Gliederung
+158	das Herz
+159	der Hauptteil
+160	die Figur
+161	der Inhalt
+162	das Mineralwasser
+163	der Punkt
+164	die Zitrone
+165	der Schluss
+166	die Portion
+167	flüssig tagsüber
+168	die Zuhörerin
+169	die Mitternacht
+170	der Wald
+171	die Angehörige
+172	-notwendig
+173	das Standesamt
+174	das Forum
+175	abonnieren übrigens
+176	die Mailbox
+177	einen Zeitplan
+178	den Stoff
+179	einen Ratschlag
+180	der Schläger
+181	die Sportart
+182	der Skistock
+183	das Paddel
+184	das Kajak
+185	das Surfbrett
+186	das Kitesurfen
+187	surfen
+188	langlaufen
+189	der Sportverein
+190	die Mannschaft
+191	das Tor
+192	der Fußballstar
+193	schießen
+194	ein Tor
+195	werfen
+196	den Ball
+197	das Rad
+198	die Radtour
+199	das Vorbild
+200	reiten
+201	der Kletterer
+202	-genial
+203	die Kletterin
+204	die Wanderung
+205	der Wahnsinn
+206	die Strecke
+207	die Kondition
+208	Das war wahnsinnig gut
+209	die Hoffnung
+210	die Gesundheit
+211	der Erfolg
+212	die Enttäuschung
+213	der Wettbewerb
+214	der Fußballschuh
+215	die Katastrophe
+216	der Klettergurt
+217	der Helm
+218	die Matte
+219	sollen
+220	das Mountainbike
+221	einverstanden sein
+222	die Anreise
+223	der Einwohner
+224	-außer
+225	die Einwohnerin
+226	das Gasthaus
+227	die Kette
+228	das Material
+229	das Gebiet
+230	die Umgebung
+231	der Nationalpark
+232	das Tal
+233	der Staat
+234	die Höhle
+235	der Kanton
+236	der Führer
+237	der Cousin
+238	einem Führer
+239	die die Cousine
+240	die Sendung
+241	die Führerin
+242	eine Antwort
+243	die Temperatur
+244	der Hinweis
+245	der Nebel
+246	-neulich
+247	einen Helm
+248	den Bergen
+249	ein Spiel
+250	der Blumentopf
+251	der Briefkasten
+252	das Zuhause
+253	das Päckchen
+254	der Bauernhof
+255	die Ferienwohnung
+256	der Lärm
+257	der Bauer
+258	den Lärm
+259	bitte
+260	der Stadtrand
+261	das
+262	das Hausboot
+263	ein Fest
+264	das Ufer
+265	das Sommerfest
+266	dem Wasser
+267	die Torte
+268	nass
+269	der Wein
+270	das Poster
+271	der Lampion
+272	die Kerze
+273	der Luxus
+274	das Spielzeug
+275	das Gartenhaus
+276	der Roller
+277	dem Roller
+278	der Altbau
+279	das Stockwerk
+280	das Kissen
+281	der Keller
+282	das Dach
+283	der Boden
+284	den Baum
+285	die Länge
+286	die Breite
+287	die Höhe
+288	die Fläche
+289	der Quadratmeter
+290	die Mieterin
+291	der Mitbewohner
+292	möbliert
+293	die Nebenkosten
+294	der Wohnung
+295	gießen
+296	gossen gespannt
+297	auskennen
+298	aus
+299	kündigen
+300	das Haustier
+301	die Katze
+302	zurücklaufen
+303	das Kätzchen
+304	der Vogel
+305	die Zulassung
+306	die Ratte
+307	die Maus
+308	der Hase
+309	die Kuh
+310	das Schaf
+311	das Schwein
+312	der Bär
+313	die Besitzerin
+314	das Futter
+315	füttern zumindest
+316	dick
+317	die Vergangenheit
+318	der Stil
+319	der Tierarzt
+320	die Veränderung
+321	einem Bild
+322	einen kurzen Text
+323	vergehen
+324	Die Zeit vergeht schnell. interessieren
+325	die Ehe
+326	die Hausfrau
+327	der Hausmann
+328	backen
+329	einen Kuchen
+330	das Zimmer
+331	der Hand
+332	verreisen
+333	den letzten Ausflug
+334	entlassen
+335	das Feuer
+336	behalten
+337	das Gas
+338	die Heizung
+339	heizen
+340	der Werktag
+341	der Export
+342	der Strom
+343	der Import
+344	die Hektik
+345	die Frist
+346	der Helfer
+347	die Helferin
+348	der Notfall
+349	das Handy
+350	einem Notfall
+351	die Polizei
+352	die Unterkunft
+353	das Einkaufszentrum
+354	verbringen
+355	verbringt
+356	der Familie
+357	träumen
+358	die Lücke
+359	verzichten
+360	das Mitleid
+361	das Sprichwort
+362	die Erklärung
+363	der Alkohol
+364	das Gold
+365	der Rat
+366	einen Rat
+367	herein kommen
+368	kommt herein
+369	brechen
+370	den Lebensphasen
+371	das Berufsleben
+372	die Schulzeit
+373	die Reihe
+374	die Unterhaltung
+375	der Warenkorb
+376	die Mehrwertsteuer
+377	die Gesellschaft
+378	das Werk
+379	das Schloss
+380	der König
+381	die Vorwahl
+382	die Königin
+383	die Führung
+384	die Versandkosten
+385	eine Führung
+386	die Gebühr
+387	der Roman
+388	die Zahlungsart
+389	der Bestseller
+390	die Überweisung
+391	jährlich
+392	die Verfilmung
+393	die Meldung
+394	die Prominente
+395	der Nachrichtensprecher
+396	die Nachrichtensprecherin
+397	das Festival
+398	der Hörer
+399	der Hit
+400	die Hörerin
+401	der Musikstil
+402	der Einsatz
+403	die Stimme
+404	die Stille
+405	rockig verschlafen
+406	der Sammler
+407	die Stimmung
+408	die Sammlerin
+409	der Campingplatz
+410	das Schnäppchen
+411	die Übernachtung
+412	die Verpflegung
+413	der Wert
+414	der Rucksack
+415	ein Ticket
+416	der Kauf
+417	der Stehplatz
+418	der Sitzplatz
+419	das Quiz
+420	die Malerei
+421	die Kriminalität
+422	der Titel
+423	dem Bild
+424	dem Titel
+425	die Gewalt
+426	die Bedeutung
+427	der Ausblick
+428	schlecht gelaunt sein
+429	das Meer
+430	das Blatt
+431	unendlich
+432	hübsch
+433	abschließend
+434	abstrakt
+435	erhalten
+436	der Vordergrund
+437	die Hauptrolle
+438	der Hintergrund
+439	der Wanderer
+440	die Wanderin
+441	die Stelle
+442	die Rückfrage
+443	der Supermarkt
+444	unter anderem
+445	abmalen
+446	das Bild
+447	erleben
+448	der Trainer
+449	die Tätigkeit
+450	einen Termin
+451	beraten
+452	den Beruf
+453	der Berufswunsch
+454	der Ärger
+455	der Neuanfang
+456	die Bahn
+457	der Fahrplan
+458	die Zugverbindung
+459	die Durchsage
+460	die Chance
+461	der Wagen
+462	eine Chance
+463	die Geschäftsreise
+464	der Schalter
+465	die Umwelt
+466	die Hinfahrt
+467	das Plastik
+468	die Rückfahrt
+469	zurück kommen
+470	kommt zurück
+471	das Gehalt
+472	das Risiko
+473	die Klasse
+474	die Übersetzerin
+475	eine Fahrtkarte
+476	die der Chirurg
+477	die Oberärztin
+478	der Leiter
+479	der Gang
+480	der Lastwagen
+481	der Lkw
+482	das Stadtprogramm
+483	die Ermäßigung
+484	die Freiheit
+485	preiswert
+486	die Band
+487	der Musiker
+488	das Telefonat
+489	die Sängerin
+490	der Anrufer
+491	das Album
+492	der Anrufbeantworter
+493	sich konzentrieren
+494	helfen
+495	ein Blatt
+496	lächeln mobil
+497	das Wissen
+498	die Kompetenz
+499	hinterlassen
+500	lebenslang
+501	die Hausarbeit
+502	zurückrufen
+503	also gut
+504	die moderne Arbeitswelt
+505	der Arbeitstag
+506	der Betrieb
+507	die Fabrik
+508	komisch
+509	die Maschine
+510	der Roboter
+511	-unnötig
+512	die Digitalisierung
+513	virtuell einige
+514	das Bier
+515	zunehmen
+516	der Schritt
+517	der Austausch
+518	der Feiertag
+519	das Jahrhundert
+520	die Zusammenarbeit
+521	eine gute Zugverbindung
+522	die Aushilfe
+523	das Verkehrsmittel
+524	die Gäste
+525	öffentlich hat au
+526	der Fahrer
+527	die
+528	die Fahrerin
+529	die Zutat
+530	transportieren de
+531	der Behörde
+532	das Amt
+533	die Feuerwehr
+534	die Behörde
+535	die Sicherheit
+536	der Beamte
+537	die die Beamtin
+538	ein paar Dinge
+539	die Operation
+540	ein Formular
+541	die Straßenreinigung
+542	der Antrag
+543	die Ordnung
+544	einen Antrag
+545	der Müll
+546	die Müllabfuhr
+547	die Einbürgerung
+548	die Mülltonne
+549	das Dokument
+550	die Mülltonnen
+551	der Personalausweis
+552	die Stellenanzeige
+553	sich bewerben
+554	den Pass
+555	das Visum
+556	ein Visum
+557	die Unterlagen
+558	die Kenntnis
+559	die Grenze
+560	die Teilzeit
+561	der Bank
+562	die Bezahlung
+563	die Angestellte
+564	der Lohn
+565	der Bescheid
+566	der Betrag
+567	einen Betrag
+568	der Dom
+569	die Disco
+570	ein Konto
+571	die Bankkarte
+572	sperren hat gebeten
+573	der Kredit
+574	der Gefallen
+575	die Geldbörse
+576	einen Gefallen
+577	leihen
+578	das Beste
+579	die Nächste
+580	der Polizei
+581	der Fan
+582	der Diebstahl
+583	der Daumen
+584	die Daumen
+585	modern
+586	funktionieren
+587	eine Stadt-Tour
+588	der Gedanke
+589	der Stadtplan
+590	die Ruhe
+591	der Tourist
+592	die Entspannung
+593	die Touristin
+594	ein Job
+595	der Politiker
+596	dem Studium
+597	die Politikerin
+598	das Parlament
+599	das Gesetz
+600	die Verwaltung
+601	das Gebäude
+602	das Wunder
+603	einen Monat
+604	die Geburt
+605	die Laune
+606	sich aus
+607	die Liebe
+608	die Geburtstagsparty
+609	der Schultag
+610	die Freude
+611	der Führerschein
+612	die Führerschein
+613	ein Glück
+614	bestehen
+615	mich mi
+616	der Club
+617	das Brautpaar
+618	der Ring
+619	das Bedauern
+620	der Sieg
+621	die Medaille
+622	das Feuerwerk
+623	die Glückwunschkarte
+624	die Karte
+625	die Absage
+626	stehen
+627	der Karte
+628	unglücklich
+629	das Gefühl
+630	die Emotion
+631	die andere Währung
+632	tauschen uns über unsere inzwischen
+633	das Frühjahr
+634	fallen
+635	das Gegenteil
+636	sich unterhalten
+637	das Wohnheim
+638	unterhält
+639	der Verkehr
+640	der Party
+641	die Währung
+642	anbieten
+643	sich aus ruhen niemand
+644	sprechen
+645	bewundern hilfsbereit
+646	sich entscheiden
+647	ordentlich
+648	entschieden weltweit
+649	unterrichten wenn
+650	wegfahren
+651	eine Einladung
+652	einer Hochzeit
+653	genauso praktisch wie das
+654	der Vergleich
+655	ein Start-Up
+656	die Studierende
+657	privat dass
+658	das Start-Up
+659	die Umfrage
+660	der Actionfilm
+661	der Fantasy-Film
+662	die Komödie
+663	der Liebesfilm
+664	die Filmmusik
+665	der Thriller
+666	blöd
+667	der E-Book-Reader
+668	das Smartphone
+669	die Spielekonsole
+670	der Bildschirm
+671	der Lautsprecher
+672	das E-Book
+673	der Laptop
+674	das Radio
+675	das Tablet
+676	die Tastatur
+677	die Webseite
+678	der Kontakt
+679	lädt herunter
+680	das Kabel
+681	der Link
+682	nah
+683	näher
+684	am nächsten
+685	die Freundschaft
+686	die Sorge
+687	die Enkelin
+688	die Kindheit
+689	überhaupt
+690	das Schicksal
+691	mancher
+692	fröhlich schwierig vorsichtig
+693	der Enkel
+694	das Tier
+695	plötzlich unbedingt
+696	tot zuletzt
+697	die Buchstaben
+698	die Hauptperson
+699	die Handlung
+700	en dumm
+701	dümmer
+702	der Humor
+703	der Trailer
+704	das Talent
+705	der Witz
+706	gewonnen dümmsten
+707	der Th
+708	die Mail
+709	die App
+710	das Foto
+711	real
+712	der Hotelkaufmann
+713	die Krankenschwester
+714	die Auszubildende
+715	die Berufserfahrung
+716	die Arztpraxis
+717	die Grundschule
+718	die Hauptschule
+719	die Gesamtschule
+720	die Realschule
+721	die Berufsschule
+722	das Schulsystem
+723	das Bundesland
+724	die Arzthelferin
+725	das Gymnasium
+726	der Altenpfleger
+727	der Englischlehrer
+728	die Hotelkauffrau
+729	der Krankenpfleger
+730	die Gärtnerin
+731	die Arbeitswelt
+732	die Erfahrung
+733	das Handwerk
+734	die Werbeagentur
+735	das Reisebüro
+736	die AG
+737	das Au-pair
+738	der Grafiker
+739	der Azubi
+740	die Lehre
+741	die Messe
+742	der Schulabschluss
+743	der Abschluss
+744	die Direktorin
+745	die Schülerin
+746	der Klasse
+747	das Klassenzimmer
+748	die Unterrichtszeit
+749	die Cafeteria
+750	der Stundenplan
+751	die Fremdsprache
+752	die Klassenfahrt
+753	die Schuluniform
+754	die Vorbereitung
+755	der Schulweg
+756	der Vokabeltest
+757	das Abitur
+758	das Zeugnis
+759	der Direktor
+760	die Dauer
+761	die Ferien
+762	der Schüler
+763	das Fach
+764	einhunderteins
+765	ausschlafen
+766	die Grafik
+767	die Behinderung
+768	verlieren
+769	der Rollstuhl
+770	die Erholung
+771	die Erinnerung
+772	die Weltreise
+773	erwachsen unabhängig
+774	sozial
+775	eine Vorlesung
+776	das Das
+777	die Gemeinsamkeit
+778	Das sehe ich anders
+779	die Vorlesung
+780	die Hauptsache
+781	der Unterschied
+782	zustimmen überraschen wenigstens
+783	teilnehmen
+784	liegen
+785	empfangen
+786	der Platz
+787	einen Plan
+788	anmelden
+789	der Flohmarkt
+790	dem Sofa
+791	der Aufenthalt
+792	die Reservierung
+793	spätestens weiter
+794	der Verein
+795	absagen zusagen gemeinsam organisieren
+796	der Eingang
+797	informieren weiterhelfen
+798	die Zigarette
+799	das WC
+800	bitter salzig sauer scharf
+801	abschließen
+802	die Hochzeit
+803	die Rentnerin
+804	die Ausbildung
+805	geboren sein geschieden
+806	der Rentner
+807	die Überstunde
+808	der Augenoptiker
+809	die Bankkauffrau
+810	das Stadtzentrum
+811	dem Land
+812	vor
+813	zusammenleben
+814	die Note
+815	weitersuchen
+816	das Apartment
+817	wohnen
+818	eine Sprache
+819	fließend sprechen
+820	die Kollegen
+821	die Angst
+822	die Sätze
+823	der Gegenstand
+824	der Sinn
+825	der Bruder
+826	fast
+827	er einer
+828	das E-Bike der TÜV
+829	die Fahrt die Versicherung
+830	die Linie die Zugfahrt
+831	das Bordbistro von U
+832	das Kinderabteil die Ex
+833	die Monatskarte das Pr
+834	das Chaos pendeln die Ur
+835	er fährt
+836	die Kombination Autos il
+837	er fliegt ab
+838	die Konsequenz ist abgeflogen dafür st
+839	das Konzept der Abflug
+840	das Fahrzeug landen andere
+841	der Motor gegenüber von
+842	die Panne die Richtung
+843	das Navi rückwärts
+844	er geht
+845	die Tankstelle die Kreuzung
+846	er hält
+847	hat gehalten
+848	einen Service nutzen
+849	der Kundenservice die Stadtbesichtigung
+850	die Expertin schon mal
+851	das Prozent die SMS
+852	die Untersuchung die Werbung
+853	die Meinung sagen ewig
+854	er verspricht
+855	er hat vor
+856	das Klavier unternehmen
+857	er unter
+858	hat unternommen
+859	er verschiebt
+860	das Interesse hat verschoben
+861	die Bücherei der Arbeitgeber
+862	die Sprechstunde freiberuflich
+863	das Sekretariat stundenweise
+864	die Schrift pensioniert
+865	die Einführung die Rente
+866	der Stoff die Seniorin
+867	die Disziplin dolmetschen
+868	er bietet
+869	hat neutral bleiben
+870	das Feedback die Kommunikation
+871	der Service die Mitteilung
+872	die Reparatur zurecht kommen
+873	er kommt zurecht
+874	das Werkzeug zurechtgekommen
+875	er wirft weg
+876	hat weggeworfen dabei haben
+877	eine Präsentation halten einzeln
+878	eine Präsentation halten erforderlich
+879	er trägt vor
+880	die Einleitung der Prospekt
+881	die Gliederung das Herz
+882	der Hauptteil die Figur
+883	der Inhalt das Mineralwasser
+884	der Punkt die Zitrone
+885	die Zuhörerin die Mitternacht
+886	das Standesamt prima
+887	die Sportart der Skistock
+888	das Kajak das Surfbrett
+889	er läuft lang
+890	das Tor der Fußballstar
+891	er schießt
+892	er wirft
+893	hat treu
+894	er benimmt
+895	hat benommen
+896	die Radtour das Vorbild
+897	er reitet
+898	ist geritten sympathisch
+899	der Wettbewerb verlieren
+900	er verliert
+901	der Fußballschuh die Katastrophe
+902	der Helm Vorschläge machen
+903	die Matte Was denkst du
+904	das Mountainbike wir
+905	die Einwohnerin ausfallen
+906	er fällt aus
+907	das Gebiet zurückgeben
+908	er gibt
+909	die Umgebung zurück
+910	hat zurückgegeben
+911	der Nationalpark bewachen
+912	die Höhle der Kanton
+913	das Zuhause das Päckchen
+914	er stinkt
+915	er kommt
+916	ist vorgekommen
+917	das Hausboot ein Fest vorbereiten
+918	der Luxus das Spielzeug
+919	das Stockwerk das Kissen
+920	er hängt
+921	die Fläche Zimmer tauschen
+922	er zieht ein
+923	ist eingezogen
+924	er gießt
+925	er kennt
+926	hat ausgekannt modisch
+927	er gibt her
+928	das Haustier weglaufen
+929	er läuft weg
+930	ist weggelaufen
+931	er läuft
+932	ist zurückgelaufen
+933	die Ratte Zulassung zum Studium
+934	der Hase per
+935	das Schaf schmutzig
+936	die Besitzerin nie mehr
+937	das Futter zum Teil
+938	er vergeht
+939	die Ehe Wofür interessierst du
+940	die Hausfrau dich
+941	er vorbereiten
+942	einen Kuchen backen kümmern
+943	er entlässt
+944	er behält
+945	der Export der Strom
+946	der Import die Hektik
+947	die Frist der Helfer
+948	hat verbracht besitzen
+949	er besitzt
+950	das Gold betrunken
+951	er meist
+952	ist vor allem
+953	er bricht
+954	das Berufsleben die F
+955	die Unterhaltung der Warenkorb
+956	das Werk zuzüglich
+957	er inklusive
+958	der König die Vorwahl
+959	die Königin Mobil
+960	der Roman die Zahlungsart
+961	die Verfilmung Meldungen
+962	das Festival -nen
+963	der Hit die Hörerin
+964	er verschläft
+965	die Stimmung die Sammlerin
+966	ein Ticket online kaufen
+967	er knapp
+968	er fällt auf
+969	er erhält
+970	einen Termin einhalten professionell
+971	er berät
+972	die Zugverbindung mehr
+973	die Hinfahrt das Plastik
+974	die Rückfahrt erfolgreich
+975	die Klasse die Übersetzerin
+976	eine Fahrtkarte für die der Chirurg
+977	die Ermäßigung die Freiheit
+978	die Band telefonieren
+979	die Sängerin der Anrufer
+980	er hilft mit
+981	er hinterlässt
+982	er ruft zurück
+983	die moderne Arbeitswelt auf keinen Fall
+984	der Betrieb möglich
+985	die Fabrik häufig
+986	er nimmt zu
+987	der Austausch der Feiertag
+988	eine gute Zugverbindung suchen
+989	die Fahrerin die Zutat
+990	die Polizei bei der Behörde
+991	die Feuerwehr die Behörde g
+992	die Sicherheit der Beamte
+993	die Müllabfuhr die Einbürgerung
+994	die Mülltonne das Dokument
+995	er gibt ab
+996	die Stellenanzeige beantragen
+997	er bewirbt
+998	die Bezahlung der/die Angestellte
+999	er hebt ab
+1000	einen Betrag überweisen
+1001	er gibt aus
+1002	die Bankkarte bitten
+1003	er bittet
+1004	der Kredit der Gefallen
+1005	die Geldbörse um einen Gefallen bitten
+1006	er leiht
+1007	hat dringend
+1008	die Liebe tausche
+1009	der Führerschein Das ist ja toll
+1010	er besteht
+1011	er streitet
+1012	das Brautpaar hat gestritten sich aus
+1013	die Karte aufregend
+1014	ihr genervt
+1015	die Absage stolz
+1016	er steht
+1017	er fällt
+1018	ist gefallen
+1019	er bietet an
+1020	hat angeboten kostenlos
+1021	er spricht nirgends
+1022	hat ausgesprochen fremd
+1023	er entscheidet
+1024	hat wahr
+1025	er fährt weg
+1026	der Vergleich ein Start-Up gründen
+1027	die Komödie der Liebesfilm
+1028	er lädt hoch
+1029	die Enkelin die Kindheit sterben
+1030	er stirbt
+1031	er gewinnt
+1032	die Hotelkauffrau der Krankenpfleger
+1033	die Gärtnerin die Arbeitswelt
+1034	das Handwerk die Werbeagentur
+1035	das Au-pair der Grafiker
+1036	die Unterrichtszeit die Cafeteria
+1037	er schläft aus
+1038	die Vorlesung die Meinung sagen
+1039	er nimmt teil
+1040	er liegt
+1041	ist geritten
+1042	er empfängt
+1043	er hilft
+1044	er schließt ab
+1045	hat abgeschlossen
+1046	die Hochzeit die Rentnerin die Ausbildung
+1047	die Überstunde der Augenoptiker
+1048	er schlägt
+1049	hat vorgeschlagen achtundachtzig
+1050	er ruft
+1051	hat gerufen
+1052	der Sinn das Handy

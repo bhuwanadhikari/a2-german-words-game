@@ -1,0 +1,866 @@
+sn,german,english,example_de,info
+1,das Parkhaus,parking garage,Ich stelle das Auto im Parkhaus ab.,Nomen (n); Plural: Parkhäuser.
+2,die Stadt,city,Die Stadt ist sehr groß.,Nomen (f); Plural: Städte. (Artikel korrigiert)
+3,der Parkplatz,parking space / parking lot,Der Parkplatz ist voll.,Nomen (m); Plural: Parkplätze.
+4,das E-Bike,e-bike,Ich fahre mit dem E-Bike zur Arbeit.,Nomen (n); Plural: E-Bikes.
+5,der TÜV,vehicle inspection (TÜV),Mein Auto muss zum TÜV.,Abkürzung; meist Singular.
+6,abstellen,to park / to put down,Ich stelle das Fahrrad hier ab.,"Verb (trennbar): abstellen, stellt ab."
+7,versichert,insured,Mein Auto ist versichert.,Adjektiv/Partizip; oft mit 'sein'.
+8,die Fahrt,trip / ride,Die Fahrt dauert 30 Minuten.,Nomen (f); Plural: Fahrten.
+9,die Versicherung,insurance,Ich habe eine Versicherung.,Nomen (f); Plural: Versicherungen.
+10,flexibel,flexible,Ich bin flexibel.,Adjektiv.
+11,die Linie,line / route,Ich nehme die Linie 5.,Nomen (f); Plural: Linien.
+12,die Zugfahrt,train journey,Die Zugfahrt ist ruhig.,Nomen (f); Plural: Zugfahrten.
+13,der Radfahrer,cyclist,Der Radfahrer trägt einen Helm.,Nomen (m); Plural: Radfahrer.
+14,das Bordbistro,on-board bistro,Im Bordbistro kaufe ich Wasser.,Nomen (n); Plural: Bordbistros.
+15,der Radweg,cycle path,Der Radweg ist breit.,Nomen (m); Plural: Radwege.
+16,das Kinderabteil,children’s compartment (train),Wir sitzen im Kinderabteil.,Nomen (n); Plural: Kinderabteile.
+17,die Ex,ex (former partner),Meine Ex wohnt in München.,Umgangssprachlich; kurz für Ex-Partner(in).
+18,die Seilbahn,cable car,Wir fahren mit der Seilbahn.,Nomen (f); Plural: Seilbahnen.
+19,die Monatskarte,monthly pass,Ich kaufe eine Monatskarte.,Nomen (f); Plural: Monatskarten.
+20,die Platzreservierung,seat reservation,Ich mache eine Platzreservierung.,Nomen (f); Plural: Platzreservierungen.
+21,das Chaos,chaos,Heute ist Chaos auf der Straße.,Nomen (n); meist Singular.
+22,die Uhr,clock / watch,Meine Uhr ist kaputt.,Nomen (f); Plural: Uhren. (OCR korrigiert)
+23,der Stau,traffic jam,Auf der Autobahn ist ein Stau.,Nomen (m); Plural: Staus.
+24,die Luft,air,Die Luft ist frisch.,Nomen (f); meist Singular.
+25,zeigen,to show,Ich zeige dir den Weg.,"Verb: zeigen, zeigt."
+26,weiter,further / continue,Geh bitte weiter.,Adverb; auch in 'weiterfahren'.
+27,die Großstadt,big city,Hamburg ist eine Großstadt.,Nomen (f); Plural: Großstädte.
+28,die Innenstadt,city center / downtown,Wir treffen uns in der Innenstadt.,Nomen (f); Plural: Innenstädte.
+29,die Kombination,combination,Die Kombination ist gut.,Nomen (f); Plural: Kombinationen.
+30,abfliegen,to take off / depart (plane),Wir fliegen um 9 Uhr ab.,"Verb (trennbar): abfliegen, fliegt ab."
+31,die Konsequenz,consequence,Das ist die Konsequenz.,Nomen (f); Plural: Konsequenzen.
+32,das Konzept,concept / plan,Das Konzept ist einfach.,Nomen (n); Plural: Konzepte.
+33,der Abflug,departure (flight),Der Abflug ist um 8 Uhr.,Nomen (m); Plural: Abflüge.
+34,das Fahrzeug,vehicle,Das Fahrzeug steht draußen.,Nomen (n); Plural: Fahrzeuge.
+35,das Kfz,motor vehicle (abbr. Kraftfahrzeug),Das Kfz ist hier geparkt.,Abkürzung; neutral; oft als 'Kfz/KFZ' geschrieben.
+36,einen Weg,a way / a path,Wir finden einen Weg.,Akkusativ von 'der Weg'.
+37,der Pkw,passenger car (abbr. Pkw),Der Pkw ist alt.,Abkürzung für Personenkraftwagen (m).
+38,die Beschreibung,description,Die Beschreibung ist kurz.,Nomen (f); Plural: Beschreibungen.
+39,das Kennzeichen,license plate,Das Kennzeichen ist neu.,Nomen (n); Plural: Kennzeichen.
+40,das Kind,child,Das Kind schläft.,Nomen (n); Plural: Kinder. (Artikel korrigiert)
+41,der Motor,engine,Der Motor ist aus.,Nomen (m); Plural: Motoren.
+42,der Reifen,tire,Der Reifen ist platt.,Nomen (m); Plural: Reifen.
+43,die Panne,breakdown (car),Ich habe eine Panne.,Nomen (f); Plural: Pannen.
+44,die Richtung,direction,Welche Richtung ist richtig?,Nomen (f); Plural: Richtungen.
+45,bremsen,to brake,Bitte bremsen!,"Verb: bremsen, bremst."
+46,vorwärts,forward,Wir gehen vorwärts.,Adverb.
+47,die Garage,garage,Das Auto steht in der Garage.,Nomen (f); Plural: Garagen.
+48,das Navi,satnav / GPS,Mein Navi zeigt den Weg.,Nomen (n); umgangssprachlich (kurz für Navigationsgerät).
+49,das Benzin,gasoline / petrol,Wir brauchen Benzin.,Nomen (n); kein Plural.
+50,der Diesel,diesel (fuel),Das Auto fährt mit Diesel.,Nomen (m); kein Plural.
+51,tanken,to refuel,Ich tanke an der Tankstelle.,"Verb: tanken, tankt."
+52,vorbei,past / over,Der Bus fährt vorbei.,Adverb/Partikel; auch: 'vorbei sein' = 'to be over'.
+53,die Tankstelle,gas station,Die Tankstelle ist dort.,Nomen (f); Plural: Tankstellen.
+54,die Kreuzung,intersection,An der Kreuzung rechts.,Nomen (f); Plural: Kreuzungen.
+55,der Bus,bus,Der Bus kommt gleich.,Nomen (m); Plural: Busse. (OCR korrigiert)
+56,die Ampel,traffic light,Die Ampel ist rot.,Nomen (f); Plural: Ampeln.
+57,halten,to stop / to hold,Der Zug hält hier.,"Verb: halten, hält."
+58,der Service,service,Der Service ist gut.,Nomen (m); Plural: Services. (Form korrigiert)
+59,die Mama,mom,Meine Mama ist nett.,Umgangssprachlich; neutraler: 'die Mutter'.
+60,der Kundenservice,customer service,Der Kundenservice hilft mir.,Nomen (m); auch: Kundendienst.
+61,die Stadtbesichtigung,city tour,Wir machen eine Stadtbesichtigung.,Nomen (f); Plural: Stadtbesichtigungen.
+62,telefonisch,by phone,Ich melde mich telefonisch.,Adverb/Adjektiv.
+63,der Konzertsaal,concert hall,Der Konzertsaal ist voll.,Nomen (m); Plural: Konzertsäle.
+64,erreichen,to reach / to contact,Ich kann dich nicht erreichen.,"Verb: erreichen, erreicht."
+65,klatschen,to clap,Alle klatschen.,"Verb: klatschen, klatscht."
+66,lösen,to solve,Ich löse die Aufgabe.,"Verb: lösen, löst."
+67,das Gewitter,thunderstorm,Heute gibt es ein Gewitter.,Nomen (n); oft Singular.
+68,registrieren,to register,Ich registriere mich.,"Verb: registrieren, registriert."
+69,die Kaution,deposit,Ich zahle die Kaution.,Nomen (f); Plural: Kautionen.
+70,die PIN,PIN code,Ich gebe die PIN ein.,Nomen (f); oft als PIN geschrieben.
+71,der Zug,train,Der Zug ist pünktlich.,Nomen (m); Plural: Züge.
+72,die Expertin,(female) expert,Die Expertin erklärt es.,Nomen (f); Plural: Expertinnen.
+73,das Prozent,percent,Das sind 20 Prozent.,Nomen (n); Plural: Prozent.
+74,die SMS,text message,Ich schreibe eine SMS.,Nomen (f); Plural: SMS.
+75,der Tarif,tariff / plan,Ich nehme einen günstigen Tarif.,Nomen (m); Plural: Tarife.
+76,die Untersuchung,examination / investigation,Die Untersuchung ist morgen.,Nomen (f); Plural: Untersuchungen.
+77,die Werbung,advertising,Die Werbung nervt.,Nomen (f); meist Singular.
+78,allgemein,generally,Allgemein ist das richtig.,Adverb.
+79,die Meinung,opinion,Das ist meine Meinung.,Nomen (f); Plural: Meinungen.
+80,der Meinung,of the opinion,"Ich bin der Meinung, dass das gut ist.",Feste Wendung: 'der Meinung sein'.
+81,dafür sein,to be in favor (of),Ich bin dafür.,Feste Wendung; Gegenteil: 'dagegen sein'.
+82,unpraktisch,impractical,Das ist unpraktisch.,Adjektiv.
+83,unterschiedlich,different,Die Farben sind unterschiedlich.,Adjektiv.
+84,dagegen sein,to be against,Ich bin dagegen.,Feste Wendung; Gegenteil: 'dafür sein'.
+85,setzen,to put / to place,Ich setze das Glas auf den Tisch.,"Verb: setzen, setzt."
+86,versprechen,to promise,Ich verspreche es.,"Verb: versprechen, verspricht."
+87,der Artikel,article / item,Der Artikel ist interessant.,Nomen (m); Plural: Artikel.
+88,die Zeitung,newspaper,Ich lese die Zeitung.,Nomen (f); Plural: Zeitungen. (Artikel korrigiert)
+89,der Kinderwagen,stroller / pram,Das Baby ist im Kinderwagen.,Nomen (m); Plural: Kinderwagen.
+90,ein passendes Verb,a suitable verb,Wir suchen ein passendes Verb.,Grammatik/Übung: passende Wortwahl.
+91,die App,app,Ich lade die App herunter.,Nomen (f); Plural: Apps. (Form korrigiert)
+92,mit dem Zug,by train,Ich fahre mit dem Zug.,Dativ nach 'mit'. Grundform: der Zug.
+93,die Energie,energy,Ich habe heute keine Energie.,Nomen (f); meist Singular.
+94,die Gitarre,guitar,Ich spiele Gitarre.,Nomen (f); Plural: Gitarren.
+95,das Klavier,piano,Ich spiele Klavier.,Nomen (n); Plural: Klaviere.
+96,das Instrument,instrument,Das Instrument ist teuer.,Nomen (n); Plural: Instrumente.
+97,das Interesse,interest,Ich habe Interesse an Musik.,Nomen (n); Plural: Interessen.
+98,klug,clever / smart,Du bist klug.,Adjektiv.
+99,die Bücherei,library,Ich gehe in die Bücherei.,Nomen (f); Plural: Büchereien. Oft: 'Bibliothek'.
+100,der Arbeitgeber,employer,Mein Arbeitgeber ist nett.,Nomen (m); Plural: Arbeitgeber.
+101,der Kursleiter,course instructor,Der Kursleiter erklärt alles.,Nomen (m); Plural: Kursleiter.
+102,anstellen,to hire / to employ,Die Firma stellt mich an.,"Verb: anstellen, stellt an. Auch: 'sich anstellen' = queue."
+103,die Lehrende,teacher / instructor,Die Lehrende erklärt die Aufgabe.,Gender-neutrale Form (Partizip); auch: der Lehrende / die Lehrenden.
+104,Vollzeit,full time,Ich arbeite in Vollzeit.,Meist ohne Artikel; Gegenteil: Teilzeit.
+105,die Lernende,learner,Die Lernende übt Deutsch.,Gender-neutrale Form; auch: der Lernende.
+106,die Sprechstunde,office hours / consultation,Die Sprechstunde ist am Montag.,Nomen (f); Plural: Sprechstunden.
+107,das Sekretariat,office / secretariat,Das Sekretariat ist im Erdgeschoss.,Nomen (n); Plural: Sekretariate.
+108,der Auftrag,assignment / order,Ich habe einen Auftrag.,Nomen (m); Plural: Aufträge.
+109,der PC,PC / computer,Mein PC ist kaputt.,Nomen (m); Plural: PCs.
+110,die Autorin,(female) author,Die Autorin schreibt ein Buch.,Nomen (f); Plural: Autorinnen.
+111,der Babysitter,babysitter,Der Babysitter kommt um 18 Uhr.,Nomen (m); Plural: Babysitter.
+112,die Konferenz,conference,Die Konferenz ist morgen.,Nomen (f); Plural: Konferenzen.
+113,die Prüferin,(female) examiner,Die Prüferin stellt Fragen.,Nomen (f); Plural: Prüferinnen.
+114,der Workshop,workshop,Der Workshop ist spannend.,Nomen (m); Plural: Workshops.
+115,schriftlich zusammenarbeiten,to collaborate in writing,Wir arbeiten schriftlich zusammen.,Phrase; z. B. per E-Mail oder im Dokument.
+116,die Schrift,writing / font,Die Schrift ist klein.,Nomen (f); auch: Handschrift / Schriftart.
+117,die Einführung,introduction,Die Einführung ist kurz.,Nomen (f); Plural: Einführungen.
+118,die Rente,pension / retirement pay,Meine Oma bekommt Rente.,Nomen (f); oft ohne Artikel.
+119,der Stoff,fabric / material,Der Stoff ist weich.,Nomen (m); Plural: Stoffe. Auch: Unterrichtsstoff.
+120,die Seniorin,senior (woman),Die Seniorin wohnt hier.,Nomen (f); Plural: Seniorinnen.
+121,die Disziplin,discipline,Disziplin ist wichtig.,Nomen (f); Plural: Disziplinen.
+122,das Stipendium,scholarship / grant,Ich bekomme ein Stipendium.,Nomen (n); Plural: Stipendien.
+123,der Dolmetscher,interpreter,Der Dolmetscher übersetzt.,Nomen (m); Plural: Dolmetscher.
+124,die Übersetzung,translation,Die Übersetzung ist gut.,Nomen (f); Plural: Übersetzungen.
+125,der Ratschlag,piece of advice,Danke für den Ratschlag.,Nomen (m); Plural: Ratschläge.
+126,die Beratung,consultation / advice,Ich brauche eine Beratung.,Nomen (f); Plural: Beratungen.
+127,die Förderung,support / funding,Es gibt Förderung für Studenten.,Nomen (f); Plural: Förderungen.
+128,bieten,to offer,Wir bieten Hilfe an.,"Verb: bieten, bietet."
+129,geboten,offered / provided,Hier wird Hilfe geboten.,Partizip II von 'bieten'.
+130,kommunizieren,to communicate,Wir kommunizieren per E-Mail.,"Verb: kommunizieren, kommuniziert."
+131,das Feedback,feedback,Ich bekomme Feedback.,Nomen (n); oft ohne Plural.
+132,die Kommunikation,communication,Die Kommunikation ist wichtig.,Nomen (f).
+133,der Trick,trick / tip,Ich kenne einen Trick.,Nomen (m); Plural: Tricks.
+134,der Zeitplan,schedule,Der Zeitplan ist voll.,Nomen (m); Plural: Zeitpläne.
+135,die Aktion,promotion / campaign,Heute gibt es eine Aktion im Laden.,Nomen (f); Plural: Aktionen.
+136,starten,to start,Wir starten um acht Uhr.,"Verb: starten, startet."
+137,die Freiwillige,volunteer (female),Die Freiwillige hilft.,Nomen (f); Plural: Freiwillige. Auch: der Freiwillige.
+138,sorgen,to take care / to worry,Ich sorge für das Kind.,Verb; auch: 'sich sorgen' = worry.
+139,die Mitteilung,message / notification,Ich habe eine Mitteilung.,Nomen (f); Plural: Mitteilungen. Oft etwas formell.
+140,existieren,to exist,Das Problem existiert.,"Verb: existieren, existiert."
+141,reparieren,to repair,Ich repariere das Fahrrad.,"Verb: reparieren, repariert."
+142,die Reparatur,repair,Die Reparatur kostet viel.,Nomen (f); Plural: Reparaturen.
+143,das Werkzeug,tool,Ich brauche Werkzeug.,Nomen (n); Plural: Werkzeuge.
+144,wegwerfen,to throw away,Bitte wirf das Papier weg.,"Verb (trennbar): wegwerfen, wirft weg."
+145,sich beschweren,to complain,Ich beschwere mich.,Reflexives Verb: sich beschweren.
+146,fett,fatty / greasy,Das Essen ist fett.,Adjektiv; auch als Nomen: 'das Fett'.
+147,die Präsentation,presentation,Ich mache eine Präsentation.,Nomen (f); Plural: Präsentationen. (Form korrigiert)
+148,vortragen,to present / to recite,Ich trage das Gedicht vor.,"Verb (trennbar): vortragen, trägt vor."
+149,die Hälfte,half,Ich esse die Hälfte.,Nomen (f).
+150,die Menge,amount / crowd,Die Menge ist groß.,Nomen (f); Plural: Mengen.
+151,die Qualität,quality,Die Qualität ist gut.,Nomen (f); Plural: Qualitäten.
+152,der Katalog,catalog,Ich lese den Katalog.,Nomen (m); Plural: Kataloge.
+153,die Einleitung,introduction (of a text),Die Einleitung ist kurz.,Nomen (f); Plural: Einleitungen.
+154,der Prospekt,brochure,Ich habe einen Prospekt.,Nomen (m); Plural: Prospekte.
+155,die Gliederung,outline / structure,Die Gliederung ist klar.,Nomen (f); Plural: Gliederungen.
+156,das Herz,heart,Mein Herz tut weh.,Nomen (n); Plural: Herzen.
+157,der Hauptteil,main part,Der Hauptteil ist lang.,Nomen (m); Plural: Hauptteile.
+158,die Figur,figure / character,Die Figur ist wichtig.,Nomen (f); Plural: Figuren.
+159,der Inhalt,content,Der Inhalt ist interessant.,Nomen (m); Plural: Inhalte.
+160,das Mineralwasser,mineral water,Ich trinke Mineralwasser.,Nomen (n); meist ohne Plural.
+161,der Punkt,point / dot,Das ist ein wichtiger Punkt.,Nomen (m); Plural: Punkte.
+162,die Zitrone,lemon,Ich kaufe eine Zitrone.,Nomen (f); Plural: Zitronen.
+163,der Schluss,end / conclusion,Am Schluss gehen wir nach Hause.,Nomen (m); auch: 'der Schluss' = conclusion.
+164,die Portion,portion / serving,Eine Portion bitte.,Nomen (f); Plural: Portionen.
+165,flüssig,liquid,Die Suppe ist flüssig.,Adjektiv.
+166,tagsüber,during the day,Tagsüber arbeite ich.,Adverb.
+167,die Zuhörerin,(female) listener,Die Zuhörerin hört zu.,Nomen (f); Plural: Zuhörerinnen.
+168,die Mitternacht,midnight,Um Mitternacht schlafe ich.,Nomen (f); meist Singular.
+169,der Wald,forest,Wir gehen in den Wald.,Nomen (m); Plural: Wälder.
+170,die Angehörigen,relatives / family members,Meine Angehörigen sind da.,Meist Plural; Singular: der/die Angehörige.
+171,notwendig,necessary,Das ist notwendig.,Adjektiv. (Form korrigiert)
+172,das Standesamt,registry office,Wir gehen zum Standesamt.,Nomen (n); Plural: Standesämter.
+173,das Forum,forum,Ich schreibe im Forum.,Nomen (n); Plural: Foren.
+174,abonnieren,to subscribe,Ich abonniere die Zeitung.,"Verb: abonnieren, abonniert."
+175,übrigens,by the way,"Übrigens, ich komme später.",Satzadverb; steht oft am Satzanfang.
+176,die Mailbox,voicemail,Ich habe eine Nachricht auf der Mailbox.,Nomen (f); Plural: Mailboxen.
+177,der Schläger,racket / bat,Ich brauche einen Schläger.,Nomen (m); Plural: Schläger (Sport).
+178,die Sportart,type of sport,Fußball ist eine Sportart.,Nomen (f); Plural: Sportarten.
+179,der Skistock,ski pole,Ich habe zwei Skistöcke.,Nomen (m); Plural: Skistöcke.
+180,das Paddel,paddle,Das Paddel ist kaputt.,Nomen (n); Plural: Paddel.
+181,das Kajak,kayak,Wir fahren Kajak.,Nomen (n); Plural: Kajaks.
+182,das Surfbrett,surfboard,Mein Surfbrett ist neu.,Nomen (n); Plural: Surfbretter.
+183,das Kitesurfen,kitesurfing,Kitesurfen ist cool.,Nomen (n); Sport.
+184,surfen,to surf,Ich surfe im Internet.,"Verb: surfen, surft."
+185,langlaufen,to cross-country ski,Im Winter gehe ich langlaufen.,Verb; auch als Nomen: 'das Langlaufen'.
+186,der Sportverein,sports club,Ich bin im Sportverein.,Nomen (m); Plural: Sportvereine.
+187,die Mannschaft,team,Unsere Mannschaft ist gut.,Nomen (f); Plural: Mannschaften.
+188,das Tor,goal,Er schießt ein Tor.,Nomen (n); Plural: Tore.
+189,der Fußballstar,soccer star,Der Fußballstar ist berühmt.,Nomen (m); Plural: Fußballstars.
+190,schießen,to shoot,Er schießt ein Tor.,"Verb: schießen, schießt."
+191,werfen,to throw,Ich werfe den Ball.,"Verb: werfen, wirft."
+192,der Ball,ball,Der Ball ist rund.,Nomen (m); Plural: Bälle.
+193,das Rad,bicycle / wheel,Ich fahre Rad.,Nomen (n); Plural: Räder.
+194,die Radtour,bike tour,Wir machen eine Radtour.,Nomen (f); Plural: Radtouren.
+195,das Vorbild,role model,Mein Vater ist ein Vorbild.,Nomen (n); Plural: Vorbilder.
+196,reiten,to ride (a horse),Ich reite gern.,"Verb: reiten, reitet."
+197,der Kletterer,climber,Das ist der Kletterer.,Nomen (m); Plural: Kletterer.
+198,genial,brilliant / awesome,Heute ist es genial.,Wort/Redemittel.
+199,die Kletterin,(female) climber,Das ist die Kletterin.,Nomen (f); Plural: Kletterine.
+200,die Wanderung,hike,Das ist die Wanderung.,Nomen (f); Plural: Wanderungen.
+201,der Wahnsinn,madness / crazy thing,Das ist der Wahnsinn.,Nomen (m); meist ohne Plural.
+202,die Strecke,distance / route,Das ist die Strecke.,Nomen (f); Plural: Strecken.
+203,die Kondition,fitness / stamina,Das ist die Kondition.,Nomen (f); Plural: Konditionen.
+204,Das war wahnsinnig gut,That was insanely good,Das war wahnsinnig gut!,Redemittel; 'wahnsinnig' = sehr / total.
+205,die Hoffnung,hope,Das ist die Hoffnung.,Nomen (f); Plural: Hoffnungen.
+206,die Gesundheit,health,Das ist die Gesundheit.,Nomen (f); Plural: Gesundheiten.
+207,der Erfolg,success,Das ist der Erfolg.,Nomen (m); Plural: Erfolge.
+208,die Enttäuschung,disappointment,Das ist die Enttäuschung.,Nomen (f); Plural: Enttäuschungen.
+209,der Wettbewerb,competition,Das ist der Wettbewerb.,Nomen (m); Plural: Wettbewerbe.
+210,der Fußballschuh,soccer shoe / cleat,Das ist der Fußballschuh.,Nomen (m); Plural: Fußballschuhe.
+211,die Katastrophe,disaster,Das ist die Katastrophe.,Nomen (f); Plural: Katastrophen.
+212,der Klettergurt,climbing harness,Das ist der Klettergurt.,Nomen (m); Plural: Klettergurte.
+213,der Helm,helmet,Das ist der Helm.,Nomen (m); Plural: Helme.
+214,die Matte,mat,Das ist die Matte.,Nomen (f); Plural: Matten.
+215,sollen,should / to be supposed to,Ich will sollen.,Verb: sollen.
+216,das Mountainbike,mountain bike,Das ist das Mountainbike.,Nomen (n); Plural: Mountainbiken.
+217,einverstanden sein,to agree / to be fine with it,Ich bin einverstanden.,Adjektiv + sein; oft: 'Ich bin (damit) einverstanden.'
+218,die Anreise,journey there / getting there,Das ist die Anreise.,Nomen (f); Plural: Anreisen.
+219,der Einwohner,resident / inhabitant,Das ist der Einwohner.,Nomen (m); Plural: Einwohner.
+220,außer,except / besides,Heute ist es außer.,Wort/Redemittel.
+221,die Einwohnerin,(female) resident,Das ist die Einwohnerin.,Nomen (f); Plural: Einwohnerine.
+222,das Gasthaus,guesthouse / inn,Das ist das Gasthaus.,Nomen (n); Plural: Gasthause.
+223,die Kette,chain,Das ist die Kette.,Nomen (f); Plural: Ketten.
+224,das Material,material,Das ist das Material.,Nomen (n); Plural: Materiale.
+225,das Gebiet,area / region,Das ist das Gebiet.,Nomen (n); Plural: Gebiete.
+226,die Umgebung,surroundings / area,Das ist die Umgebung.,Nomen (f); Plural: Umgebungen.
+227,der Nationalpark,national park,Das ist der Nationalpark.,Nomen (m); Plural: Nationalparks.
+228,das Tal,valley,Das ist das Tal.,Nomen (n); Plural: Täler.
+229,der Staat,state / country,Das ist der Staat.,Nomen (m); Plural: Staaten.
+230,die Höhle,cave,Das ist die Höhle.,Nomen (f); Plural: Höhlen.
+231,der Kanton,canton,Das ist der Kanton.,Nomen (m); Plural: Kantone.
+232,der Führer,guide,Das ist der Führer.,Nomen (m); Plural: Führer.
+233,der Cousin,cousin (male),Das ist der Cousin.,Nomen (m); Plural: Cousins.
+234,die Cousine,cousin (female),Das ist die Cousine.,Nomen (f); Plural: Cousinen.
+235,die Sendung,TV/radio programme,Das ist die Sendung.,Nomen (f); Plural: Sendungen.
+236,die Führerin,(female) guide,Das ist die Führerin.,Nomen (f); Plural: Führerine.
+237,die Antwort,answer,Das ist die Antwort.,Nomen (f); Plural: Antworte.
+238,die Temperatur,temperature,Das ist die Temperatur.,Nomen (f); Plural: Temperaturen.
+239,der Hinweis,tip / hint,Das ist der Hinweis.,Nomen (m); Plural: Hinweise.
+240,der Nebel,fog,Das ist der Nebel.,Nomen (m); meist ohne Plural.
+241,neulich,recently,Heute ist es neulich.,Wort/Redemittel.
+242,das Spiel,game,Das ist das Spiel.,Nomen (n); Plural: Spiel.
+243,der Blumentopf,flower pot,Das ist der Blumentopf.,Nomen (m); Plural: Blumentopfe.
+244,der Briefkasten,mailbox,Das ist der Briefkasten.,Nomen (m); Plural: Briefkastene.
+245,das Zuhause,home (place),Das ist das Zuhause.,Nomen (n); meist ohne Plural.
+246,das Päckchen,small parcel,Das ist das Päckchen.,Nomen (n); Plural: Päckchen.
+247,der Bauernhof,farm,Das ist der Bauernhof.,Nomen (m); Plural: Bauernhöfe.
+248,die Ferienwohnung,holiday apartment,Das ist die Ferienwohnung.,Nomen (f); Plural: Ferienwohnungen.
+249,der Lärm,noise,Das ist der Lärm.,Nomen (m); meist ohne Plural.
+250,der Bauer,farmer,Das ist der Bauer.,Nomen (m); Plural: Bauer.
+251,bitte,please / you're welcome,Heute ist es bitte.,Wort/Redemittel.
+252,der Stadtrand,outskirts (edge of town),Das ist der Stadtrand.,Nomen (m); Plural: Stadtränder.
+253,das,that / this (neuter),Heute ist es das.,Wort/Redemittel.
+254,das Hausboot,houseboat,Das ist das Hausboot.,Nomen (n); Plural: Hausboote.
+255,das Fest,festival / party,Das ist das Fest.,Nomen (n); Plural: Feste.
+256,das Ufer,shore / riverbank,Das ist das Ufer.,Nomen (n); Plural: Ufer.
+257,das Sommerfest,summer festival,Das ist das Sommerfest.,Nomen (n); Plural: Sommerfeste.
+258,das Wasser,water,Das ist das Wasser.,Nomen (n); meist ohne Plural.
+259,die Torte,cake (cream cake),Das ist die Torte.,Nomen (f); Plural: Torten.
+260,nass,wet,Heute ist es nass.,Wort/Redemittel.
+261,der Wein,wine,Das ist der Wein.,Nomen (m); Plural: Weine.
+262,das Poster,poster,Das ist das Poster.,Nomen (n); Plural: Poster.
+263,der Lampion,paper lantern,Das ist der Lampion.,Nomen (m); Plural: Lampione.
+264,die Kerze,candle,Das ist die Kerze.,Nomen (f); Plural: Kerzen.
+265,der Luxus,luxury,Das ist der Luxus.,Nomen (m); meist ohne Plural.
+266,das Spielzeug,toy(s),Das ist das Spielzeug.,Nomen (n); meist ohne Plural.
+267,das Gartenhaus,garden shed / summer house,Das ist das Gartenhaus.,Nomen (n); Plural: Gartenhause.
+268,der Roller,scooter,Das ist der Roller.,Nomen (m); Plural: Roller.
+269,der Altbau,old building (pre-war),Das ist der Altbau.,Nomen (m); Plural: Altbauten.
+270,das Stockwerk,floor / storey,Das ist das Stockwerk.,Nomen (n); Plural: Stockwerke.
+271,das Kissen,pillow,Das ist das Kissen.,Nomen (n); Plural: Kissene.
+272,der Keller,basement / cellar,Das ist der Keller.,Nomen (m); Plural: Keller.
+273,das Dach,roof,Das ist das Dach.,Nomen (n); Plural: Dächer.
+274,der Boden,floor / ground,Das ist der Boden.,Nomen (m); Plural: Böden.
+275,die Länge,length,Das ist die Länge.,Nomen (f); Plural: Längen.
+276,die Breite,width,Das ist die Breite.,Nomen (f); Plural: Breiten.
+277,die Höhe,height,Das ist die Höhe.,Nomen (f); Plural: Höhen.
+278,die Fläche,area / surface,Das ist die Fläche.,Nomen (f); Plural: Flächen.
+279,der Quadratmeter,square meter,Das ist der Quadratmeter.,Nomen (m); Plural: Quadratmeter.
+280,die Mieterin,(female) tenant,Das ist die Mieterin.,Nomen (f); Plural: Mieterine.
+281,der Mitbewohner,roommate / flatmate,Das ist der Mitbewohner.,Nomen (m); Plural: Mitbewohner.
+282,möbliert,furnished,Heute ist es möbliert.,Wort/Redemittel.
+283,die Nebenkosten,additional costs (utilities),Das ist die Nebenkosten.,Nomen (f); meist ohne Plural.
+284,die Wohnung,apartment / flat,Das ist die Wohnung.,Nomen (f); Plural: Wohnungen.
+285,gießen,to water (plants) / to pour,Ich will gießen.,Verb: gießen.
+286,gespannt,curious / excited,Heute ist es gespannt.,Wort/Redemittel.
+287,auskennen,to know one's way around,Ich will auskennen.,Verb (trennbar): auskennen.
+288,aus,out / off; from,Heute ist es aus.,Wort/Redemittel.
+289,kündigen,to quit / to cancel,Ich will kündigen.,Verb: kündigen.
+290,das Haustier,pet,Das ist das Haustier.,Nomen (n); Plural: Haustiere.
+291,die Katze,cat,Das ist die Katze.,Nomen (f); Plural: Katzen.
+292,zurücklaufen,to run back,Ich will zurücklaufen.,Verb (trennbar): zurücklaufen.
+293,das Kätzchen,kitten,Das ist das Kätzchen.,Nomen (n); Plural: Kätzchen.
+294,der Vogel,bird,Das ist der Vogel.,Nomen (m); Plural: Vögel.
+295,die Zulassung,admission / registration,Das ist die Zulassung.,Nomen (f); Plural: Zulassungen.
+296,die Ratte,rat,Das ist die Ratte.,Nomen (f); Plural: Ratten.
+297,die Maus,mouse,Das ist die Maus.,Nomen (f); Plural: Mäuse.
+298,der Hase,hare / bunny,Das ist der Hase.,Nomen (m); Plural: Hasen.
+299,die Kuh,cow,Das ist die Kuh.,Nomen (f); Plural: Kühe.
+300,das Schaf,sheep,Das ist das Schaf.,Nomen (n); Plural: Schafe.
+301,das Schwein,pig,Das ist das Schwein.,Nomen (n); Plural: Schweine.
+302,der Bär,bear,Das ist der Bär.,Nomen (m); Plural: Bären.
+303,die Besitzerin,(female) owner,Das ist die Besitzerin.,Nomen (f); Plural: Besitzerinnen.
+304,das Futter,animal feed / food,Das ist das Futter.,Nomen (n); meist ohne Plural.
+305,füttern,to feed (an animal),Heute ist es füttern.,Wort/Redemittel.
+306,zumindest,at least,Heute ist es zumindest.,Wort/Redemittel.
+307,dick,thick / fat,Heute ist es dick.,Wort/Redemittel.
+308,die Vergangenheit,past,Das ist die Vergangenheit.,Nomen (f); Plural: Vergangenheiten.
+309,der Stil,style,Das ist der Stil.,Nomen (m); Plural: Stile.
+310,der Tierarzt,vet,Das ist der Tierarzt.,Nomen (m); Plural: Tierärzte.
+311,die Veränderung,change,Das ist die Veränderung.,Nomen (f); Plural: Veränderungen.
+312,das Bild,picture,Das ist das Bild.,Nomen (n); Plural: Bilde.
+313,der kurze Text,short text,Das ist der kurze Text.,Nomen (m); Plural: kurze Texte.
+314,vergehen,to pass (time),Ich will vergehen.,Verb: vergehen.
+315,interessieren,to interest,Ich will interessieren.,Verb: interessieren.
+316,die Ehe,marriage,Das ist die Ehe.,Nomen (f); Plural: Ehen.
+317,die Hausfrau,housewife,Das ist die Hausfrau.,Nomen (f); Plural: Hausfrauen.
+318,der Hausmann,househusband,Das ist der Hausmann.,Nomen (m); Plural: Hausmänner.
+319,backen,to bake,Ich will backen.,Verb: backen.
+320,der Kuchen,cake,Das ist der Kuchen.,Nomen (m); Plural: Kuchen.
+321,das Zimmer,room,Das ist das Zimmer.,Nomen (n); Plural: Zimmer.
+322,die Hand,hand,Das ist die Hand.,Nomen (f); Plural: Hande.
+323,verreisen,to travel (go away),Ich will verreisen.,Verb: verreisen.
+324,der letzte Ausflug,the last trip,Das ist der letzte Ausflug.,Nomen (m); Plural: letzte Ausfluge.
+325,entlassen,to dismiss / to fire,Ich will entlassen.,Verb: entlassen.
+326,das Feuer,fire,Das ist das Feuer.,Nomen (n); Plural: Feuer.
+327,behalten,to keep,Ich will behalten.,Verb: behalten.
+328,das Gas,gas,Das ist das Gas.,Nomen (n); meist ohne Plural.
+329,die Heizung,heating,Das ist die Heizung.,Nomen (f); Plural: Heizungen.
+330,heizen,to heat,Ich will heizen.,Verb: heizen.
+331,der Werktag,weekday (workday),Das ist der Werktag.,Nomen (m); Plural: Werktage.
+332,der Export,export,Das ist der Export.,Nomen (m); Plural: Exporte.
+333,der Strom,electricity,Das ist der Strom.,Nomen (m); meist ohne Plural.
+334,der Import,import,Das ist der Import.,Nomen (m); Plural: Importe.
+335,die Hektik,hectic rush / stress,Das ist die Hektik.,Nomen (f); meist ohne Plural.
+336,die Frist,deadline,Das ist die Frist.,Nomen (f); Plural: Fristen.
+337,der Helfer,helper,Das ist der Helfer.,Nomen (m); Plural: Helfer.
+338,die Helferin,(female) helper,Das ist die Helferin.,Nomen (f); Plural: Helferinnen.
+339,der Notfall,emergency,Das ist der Notfall.,Nomen (m); Plural: Notfälle.
+340,das Handy,mobile phone,Das ist das Handy.,Nomen (n); Plural: Handys.
+341,die Polizei,police,Das ist die Polizei.,Nomen (f); meist ohne Plural.
+342,die Unterkunft,accommodation,Das ist die Unterkunft.,Nomen (f); Plural: Unterkünfte.
+343,das Einkaufszentrum,shopping mall / shopping center,Das ist das Einkaufszentrum.,Nomen (n); Plural: Einkaufszentren.
+344,verbringen,to spend (time),Ich will verbringen.,Verb: verbringen.
+345,träumen,to dream,Ich will träumen.,Verb: träumen.
+346,die Lücke,gap,Das ist die Lücke.,Nomen (f); Plural: Lücken.
+347,verzichten,to do without / to give up,Ich will verzichten.,Verb: verzichten.
+348,das Mitleid,pity,Das ist das Mitleid.,Nomen (n); meist ohne Plural.
+349,die Kriminalität,Kriminaliity,Das ist die Kriminalität.,Nomen (f); Plural: Kriminalitäten.
+350,die Operation,Operation,Das ist die Operation.,Nomen (f); Plural: Operationen.
+351,das Formular,formular,Das ist das Formular.,Nomen (n); Plural: Formulare.
+352,die Disco,disco,Das ist die Disco.,Nomen (f); Plural: Discoe.
+353,das Konto,konto,Das ist das Konto.,Nomen (n); Plural: Kontoe.
+354,das Beste,the best,Das ist das Beste.,Nomen (n); Plural: Besten.
+355,modern,modern,Heute ist es modern.,Wort/Redemittel.
+356,funktionieren,to work / to function,Ich will funktionieren.,Verb: funktionieren.
+357,der Job,job,Das ist der Job.,Nomen (m); Plural: Jobe.
+358,die Emotion,Emotion,Das ist die Emotion.,Nomen (f); Plural: Emotionen.
+359,Kondition,Kondition,Kondition,Wort/Redemittel.
+360,Poster,poster,Poster,Wort/Redemittel.
+361,hereinkommen,to come in,Ich will hereinkommen.,Verb (trennbar): hereinkommen.
+362,brechen,to break,Ich will brechen.,Verb: brechen.
+363,jährlich,yearly / annually,Heute ist es jährlich.,Wort/Redemittel.
+364,rockig,rocky / rock-style,Heute ist es rockig.,Wort/Redemittel.
+365,verschlafen,sleepy / overslept,Ich will verschlafen.,Verb: verschlafen.
+366,Kriminalität,Kriminaliity,Kriminalität,Wort/Redemittel.
+367,schlecht gelaunt sein,to be in a bad mood,Heute bin ich schlecht gelaunt.,Redemittel; 'gelaunt' = in einer Stimmung.
+368,unendlich,endless / infinite,Heute ist es unendlich.,Wort/Redemittel.
+369,hübsch,pretty,Heute ist es hübsch.,Wort/Redemittel.
+370,abschließend,finally / in conclusion,Heute ist es abschließend.,Wort/Redemittel.
+371,abstrakt,abstract,Heute ist es abstrakt.,Wort/Redemittel.
+372,erhalten,to receive,Ich will erhalten.,Verb: erhalten.
+373,unter anderem,among other things,Unter anderem kaufe ich Brot.,Feste Wendung = 'zum Beispiel auch'.
+374,abmalen,to trace / copy (a drawing),Ich will abmalen.,Verb (trennbar): abmalen.
+375,erleben,to experience,Ich will erleben.,Verb: erleben.
+376,beraten,to advise,Ich will beraten.,Verb: beraten.
+377,zurückkommen,to come back,Ich will zurückkommen.,Verb (trennbar): zurückkommen.
+378,der Chirurg,surgeon,Das ist der Chirurg.,Nomen (m); Plural: Chirurge.
+379,preiswert,good value / inexpensive,Heute ist es preiswert.,Wort/Redemittel.
+380,sich konzentrieren,to concentrate,Ich will sich konzentrieren.,Verb: sich konzentrieren.
+381,helfen,to help,Ich will helfen.,Verb: helfen.
+382,lächeln,to smile,Heute ist es lächeln.,Wort/Redemittel.
+383,mobil,mobile / flexible,Heute ist es mobil.,Wort/Redemittel.
+384,hinterlassen,to leave behind,Ich will hinterlassen.,Verb (trennbar): hinterlassen.
+385,lebenslang,lifelong,Heute ist es lebenslang.,Wort/Redemittel.
+386,zurückrufen,to call back,Ich will zurückrufen.,Verb (trennbar): zurückrufen.
+387,also gut,alright then / okay,"Also gut, wir machen das.",Umgangssprachlich; oft am Satzanfang.
+388,komisch,strange / funny,Heute ist es komisch.,Wort/Redemittel.
+389,unnötig,unnecessary,Heute ist es unnötig.,Wort/Redemittel.
+390,virtuell,virtual,Heute ist es virtuell.,Wort/Redemittel.
+391,einige,some / several,Heute ist es einige.,Wort/Redemittel.
+392,zunehmen,to gain weight / to increase,Ich will zunehmen.,Verb (trennbar): zunehmen.
+393,öffentlich,public,Heute ist es öffentlich.,Wort/Redemittel.
+394,transportieren,to transport,Ich will transportieren.,Verb: transportieren.
+395,die Beamtin,(female) civil servant,Das ist die Beamtin.,Nomen (f); Plural: Beamtine.
+396,Operation,Operation,Operation,Wort/Redemittel.
+397,Formular,formular,Formular,Wort/Redemittel.
+398,sich bewerben,to apply (for a job),Ich will sich bewerben.,Verb: sich bewerben.
+399,Disco,disco,Disco,Wort/Redemittel.
+400,Konto,konto,Konto,Wort/Redemittel.
+401,sperren,to block / to lock,Ich will sperren.,Verb: sperren.
+402,leihen,to lend / to borrow,Ich will leihen.,Verb: leihen.
+403,Job,job,Job,Wort/Redemittel.
+404,bestehen,to pass (an exam),Ich will bestehen.,Verb: bestehen.
+405,stehen,to stand,Ich will stehen.,Verb: stehen.
+406,unglücklich,unhappy,Heute ist es unglücklich.,Wort/Redemittel.
+407,Emotion,Emotion,Emotion,Wort/Redemittel.
+408,tauschen,to exchange,Ich will tauschen.,Verb: tauschen.
+409,fallen,to fall,Ich will fallen.,Verb: fallen.
+410,sich unterhalten,to chat / talk,Ich will sich unterhalten.,Verb: sich unterhalten.
+411,anbieten,to offer,Ich will anbieten.,Verb (trennbar): anbieten.
+412,sprechen,to speak,Ich will sprechen.,Verb: sprechen.
+413,bewundern,to admire,Heute ist es bewundern.,Wort/Redemittel.
+414,hilfsbereit,helpful,Heute ist es hilfsbereit.,Wort/Redemittel.
+415,sich entscheiden,to decide,Ich will sich entscheiden.,Verb: sich entscheiden.
+416,ordentlich,tidy / proper,Heute ist es ordentlich.,Wort/Redemittel.
+417,weltweit,worldwide,Heute ist es weltweit.,Wort/Redemittel.
+418,unterrichten,to teach,Ich will unterrichten.,Verb: unterrichten.
+419,wegfahren,to drive off / leave,Ich will wegfahren.,Verb (trennbar): wegfahren.
+420,privat,private,Heute ist es privat.,Wort/Redemittel.
+421,blöd,stupid / silly,Heute ist es blöd.,Wort/Redemittel.
+422,nah,near,Heute ist es nah.,Wort/Redemittel.
+423,näher,nearer / closer,Heute ist es näher.,Wort/Redemittel.
+424,überhaupt,at all / anyway,Heute ist es überhaupt.,Wort/Redemittel.
+425,mancher,some / many a,Heute ist es mancher.,Wort/Redemittel.
+426,fröhlich,cheerful,Heute ist es fröhlich.,Wort/Redemittel.
+427,schwierig,difficult,Heute ist es schwierig.,Wort/Redemittel.
+428,vorsichtig,careful,Heute ist es vorsichtig.,Wort/Redemittel.
+429,plötzlich,suddenly,Heute ist es plötzlich.,Wort/Redemittel.
+430,unbedingt,definitely,Heute ist es unbedingt.,Wort/Redemittel.
+431,tot,dead,Heute ist es tot.,Wort/Redemittel.
+432,zuletzt,finally / last,Heute ist es zuletzt.,Wort/Redemittel.
+433,dumm,dumb,Heute ist es dumm.,Wort/Redemittel.
+434,dümmer,dumber,Heute ist es dümmer.,Wort/Redemittel.
+435,verlieren,to lose,Ich will verlieren.,Verb: verlieren.
+436,Kombination,Kombination,Kombination,Wort/Redemittel.
+437,Präsentation,Präsentation,Präsentation,Wort/Redemittel.
+438,das Berufsleben,working life,Das ist das Berufsleben.,Nomen (n); Plural: Berufslebene.
+439,die Unterhaltung,entertainment / conversation,Das ist die Unterhaltung.,Nomen (f); Plural: Unterhaltungen.
+440,der Warenkorb,shopping cart,Das ist der Warenkorb.,Nomen (m); Plural: Warenkorbe.
+441,der König,king,Das ist der König.,Nomen (m); Plural: Könige.
+442,die Vorwahl,area code (phone),Das ist die Vorwahl.,Nomen (f); Plural: Vorwahle.
+443,der Roman,novel,Das ist der Roman.,Nomen (m); Plural: Romane.
+444,die Zahlungsart,payment method,Das ist die Zahlungsart.,Nomen (f); Plural: Zahlungsarte.
+445,der Hit,hit (song),Das ist der Hit.,Nomen (m); Plural: Hite.
+446,die Hörerin,(female) listener,Das ist die Hörerin.,Nomen (f); Plural: Hörerine.
+447,die Stimmung,mood / atmosphere,Das ist die Stimmung.,Nomen (f); Plural: Stimmungen.
+448,die Sammlerin,(female) collector,Das ist die Sammlerin.,Nomen (f); Plural: Sammlerine.
+449,die Hinfahrt,trip there,Das ist die Hinfahrt.,Nomen (f); Plural: Hinfahrte.
+450,das Plastik,plastic,Das ist das Plastik.,Nomen (n); Plural: Plastike.
+451,die Klasse,class,Das ist die Klasse.,Nomen (f); Plural: Klassen.
+452,die Übersetzerin,translator,Das ist die Übersetzerin.,Nomen (f); Plural: Übersetzerine.
+453,die Ermäßigung,discount,Das ist die Ermäßigung.,Nomen (f); Plural: Ermäßigungen.
+454,die Freiheit,freedom,Das ist die Freiheit.,Nomen (f); Plural: Freiheiten.
+455,die Sängerin,singer,Das ist die Sängerin.,Nomen (f); Plural: Sängerine.
+456,der Anrufer,caller,Das ist der Anrufer.,Nomen (m); Plural: Anrufer.
+457,der Austausch,exchange,Das ist der Austausch.,Nomen (m); Plural: Austausche.
+458,der Feiertag,public holiday,Das ist der Feiertag.,Nomen (m); Plural: Feiertage.
+459,die Fahrerin,(female) driver,Das ist die Fahrerin.,Nomen (f); Plural: Fahrerine.
+460,die Zutat,ingredient,Das ist die Zutat.,Nomen (f); Plural: Zutate.
+461,die Feuerwehr,fire department,Das ist die Feuerwehr.,Nomen (f); Plural: Feuerwehre.
+462,die Sicherheit,safety / security,Das ist die Sicherheit.,Nomen (f); Plural: Sicherheiten.
+463,der Beamte,civil servant,Das ist der Beamte.,Nomen (m); Plural: Beamten.
+464,die Müllabfuhr,garbage collection,Das ist die Müllabfuhr.,Nomen (f); Plural: Müllabfuhre.
+465,die Einbürgerung,naturalization,Das ist die Einbürgerung.,Nomen (f); Plural: Einbürgerungen.
+466,die Mülltonne,trash can,Das ist die Mülltonne.,Nomen (f); Plural: Mülltonnen.
+467,das Dokument,document,Das ist das Dokument.,Nomen (n); Plural: Dokumente.
+468,die Bezahlung,payment / pay,Das ist die Bezahlung.,Nomen (f); Plural: Bezahlungen.
+469,die Angestellte,employee,Das ist die Angestellte.,Nomen (f); Plural: Angestellten.
+470,der Kredit,loan / credit,Das ist der Kredit.,Nomen (m); Plural: Kredite.
+471,der Gefallen,favor,Das ist der Gefallen.,Nomen (m); Plural: Gefallene.
+472,der Führerschein,driver's license,Das ist der Führerschein.,Nomen (m); Plural: Führerscheine.
+473,Das ist ja toll,That's great!,Das ist ja toll!,Ausruf; 'ja' = Betonung/Überraschung.
+474,der Vergleich,comparison,Das ist der Vergleich.,Nomen (m); Plural: Vergleiche.
+475,die Komödie,comedy,Das ist die Komödie.,Nomen (f); Plural: Komödien.
+476,der Liebesfilm,romance film,Das ist der Liebesfilm.,Nomen (m); Plural: Liebesfilme.
+477,die Enkelin,granddaughter,Das ist die Enkelin.,Nomen (f); Plural: Enkeline.
+478,die Hochzeit,wedding,Das ist die Hochzeit.,Nomen (f); Plural: Hochzeite.
+479,der Baum,tree,Das ist der Baum.,Nomen (m); Plural: Bäume.
+480,das Sprichwort,proverb,Das ist das Sprichwort.,Nomen (n); Plural: Sprichworte.
+481,die Erklärung,explanation,Das ist die Erklärung.,Nomen (f); Plural: Erklärungen.
+482,der Alkohol,alcohol,Das ist der Alkohol.,Nomen (m); Plural: Alkohole.
+483,das Gold,gold,Das ist das Gold.,Nomen (n); Plural: Golde.
+484,der Rat,advice,Das ist der Rat.,Nomen (m); Plural: Rate.
+485,die Lebensphase,phase of life,Das ist die Lebensphase.,Nomen (f); Plural: Lebensphasen.
+486,die Schulzeit,time at school,Das ist die Schulzeit.,Nomen (f); Plural: Schulzeite.
+487,die Reihe,row / series,Das ist die Reihe.,Nomen (f); Plural: Reihen.
+488,die Mehrwertsteuer,VAT (value-added tax),Das ist die Mehrwertsteuer.,Nomen (f); Plural: Mehrwertsteuer.
+489,die Gesellschaft,society / company,Das ist die Gesellschaft.,Nomen (f); Plural: Gesellschaften.
+490,das Werk,work (piece) / plant,Das ist das Werk.,Nomen (n); Plural: Werke.
+491,das Schloss,castle / lock,Das ist das Schloss.,Nomen (n); Plural: Schlosse.
+492,die Königin,queen,Das ist die Königin.,Nomen (f); Plural: Königine.
+493,die Führung,guided tour,Das ist die Führung.,Nomen (f); Plural: Führungen.
+494,die Versandkosten,shipping costs,Das ist die Versandkosten.,Nomen (f); Plural: Versandkostene.
+495,die Gebühr,fee,Das ist die Gebühr.,Nomen (f); Plural: Gebühre.
+496,der Bestseller,bestseller,Das ist der Bestseller.,Nomen (m); Plural: Bestseller.
+497,die Überweisung,bank transfer,Das ist die Überweisung.,Nomen (f); Plural: Überweisungen.
+498,die Verfilmung,film adaptation,Das ist die Verfilmung.,Nomen (f); Plural: Verfilmungen.
+499,die Meldung,report / message,Das ist die Meldung.,Nomen (f); Plural: Meldungen.
+500,die Prominente,celebrity,Das ist die Prominente.,Nomen (f); Plural: Prominenten.
+501,der Nachrichtensprecher,news anchor,Das ist der Nachrichtensprecher.,Nomen (m); Plural: Nachrichtensprecher.
+502,die Nachrichtensprecherin,(female) news anchor,Das ist die Nachrichtensprecherin.,Nomen (f); Plural: Nachrichtensprecherine.
+503,das Festival,festival,Das ist das Festival.,Nomen (n); Plural: Festivale.
+504,der Hörer,listener,Das ist der Hörer.,Nomen (m); Plural: Hörer.
+505,der Musikstil,music genre,Das ist der Musikstil.,Nomen (m); Plural: Musikstile.
+506,der Einsatz,effort / use,Das ist der Einsatz.,Nomen (m); Plural: Einsatze.
+507,die Stimme,voice / vote,Das ist die Stimme.,Nomen (f); Plural: Stimmen.
+508,die Stille,silence,Das ist die Stille.,Nomen (f); Plural: Stillen.
+509,der Sammler,collector,Das ist der Sammler.,Nomen (m); Plural: Sammler.
+510,der Campingplatz,campsite,Das ist der Campingplatz.,Nomen (m); Plural: Campingplatze.
+511,das Schnäppchen,bargain,Das ist das Schnäppchen.,Nomen (n); Plural: Schnäppchen.
+512,die Übernachtung,overnight stay,Das ist die Übernachtung.,Nomen (f); Plural: Übernachtungen.
+513,die Verpflegung,meals / catering,Das ist die Verpflegung.,Nomen (f); Plural: Verpflegungen.
+514,der Wert,value,Das ist der Wert.,Nomen (m); Plural: Werte.
+515,der Rucksack,backpack,Das ist der Rucksack.,Nomen (m); Plural: Rucksacke.
+516,das Ticket,ticket,Das ist das Ticket.,Nomen (n); Plural: Tickete.
+517,der Kauf,purchase,Das ist der Kauf.,Nomen (m); Plural: Kaufe.
+518,der Stehplatz,standing place / standing ticket,Das ist der Stehplatz.,Nomen (m); Plural: Stehplatze.
+519,der Sitzplatz,seat,Das ist der Sitzplatz.,Nomen (m); Plural: Sitzplatze.
+520,das Quiz,quiz,Das ist das Quiz.,Nomen (n); Plural: Quize.
+521,die Malerei,painting (art),Das ist die Malerei.,Nomen (f); Plural: Malereie.
+522,der Titel,title,Das ist der Titel.,Nomen (m); Plural: Titel.
+523,die Gewalt,violence,Das ist die Gewalt.,Nomen (f); Plural: Gewalte.
+524,die Bedeutung,meaning / importance,Das ist die Bedeutung.,Nomen (f); Plural: Bedeutungen.
+525,der Ausblick,view / outlook,Das ist der Ausblick.,Nomen (m); Plural: Ausblicke.
+526,das Meer,sea,Das ist das Meer.,Nomen (n); Plural: Meer.
+527,das Blatt,leaf / sheet,Das ist das Blatt.,Nomen (n); Plural: Blatte.
+528,der Vordergrund,foreground,Das ist der Vordergrund.,Nomen (m); Plural: Vordergrunde.
+529,die Hauptrolle,leading role,Das ist die Hauptrolle.,Nomen (f); Plural: Hauptrollen.
+530,der Hintergrund,background,Das ist der Hintergrund.,Nomen (m); Plural: Hintergrunde.
+531,der Wanderer,hiker,Das ist der Wanderer.,Nomen (m); Plural: Wanderer.
+532,die Wanderin,(female) hiker,Das ist die Wanderin.,Nomen (f); Plural: Wanderine.
+533,die Stelle,position / place,Das ist die Stelle.,Nomen (f); Plural: Stellen.
+534,die Rückfrage,follow-up question,Das ist die Rückfrage.,Nomen (f); Plural: Rückfragen.
+535,der Supermarkt,supermarket,Das ist der Supermarkt.,Nomen (m); Plural: Supermarkte.
+536,der Trainer,coach,Das ist der Trainer.,Nomen (m); Plural: Trainer.
+537,die Tätigkeit,activity / job,Das ist die Tätigkeit.,Nomen (f); Plural: Tätigkeiten.
+538,der Termin,appointment,Das ist der Termin.,Nomen (m); Plural: Termine.
+539,der Berufswunsch,desired job / career wish,Das ist der Berufswunsch.,Nomen (m); Plural: Berufswunsche.
+540,der Ärger,trouble / annoyance,Das ist der Ärger.,Nomen (m); Plural: Ärger.
+541,der Neuanfang,new start,Das ist der Neuanfang.,Nomen (m); Plural: Neuanfange.
+542,die Bahn,train / railway,Das ist die Bahn.,Nomen (f); Plural: Bahne.
+543,der Fahrplan,timetable,Das ist der Fahrplan.,Nomen (m); Plural: Fahrplane.
+544,die Zugverbindung,train connection,Das ist die Zugverbindung.,Nomen (f); Plural: Zugverbindungen.
+545,die Durchsage,announcement,Das ist die Durchsage.,Nomen (f); Plural: Durchsagen.
+546,die Chance,chance,Das ist die Chance.,Nomen (f); Plural: Chancen.
+547,der Wagen,carriage / car (train),Das ist der Wagen.,Nomen (m); Plural: Wagene.
+548,die Geschäftsreise,business trip,Das ist die Geschäftsreise.,Nomen (f); Plural: Geschäftsreisen.
+549,der Schalter,counter / switch,Das ist der Schalter.,Nomen (m); Plural: Schalter.
+550,die Umwelt,environment,Das ist die Umwelt.,Nomen (f); Plural: Umwelte.
+551,die Rückfahrt,trip back,Das ist die Rückfahrt.,Nomen (f); Plural: Rückfahrte.
+552,das Gehalt,salary,Das ist das Gehalt.,Nomen (n); Plural: Gehalte.
+553,das Risiko,risk,Das ist das Risiko.,Nomen (n); Plural: Risikoe.
+554,die Oberärztin,senior doctor,Das ist die Oberärztin.,Nomen (f); Plural: Oberärztine.
+555,der Leiter,head / manager,Das ist der Leiter.,Nomen (m); Plural: Leiter.
+556,der Gang,corridor / aisle,Das ist der Gang.,Nomen (m); Plural: Gange.
+557,der Lastwagen,truck,Das ist der Lastwagen.,Nomen (m); Plural: Lastwagene.
+558,der Lkw,truck (abbr.),Das ist der Lkw.,Nomen (m); Plural: Lkwe.
+559,das Stadtprogramm,city programme,Das ist das Stadtprogramm.,Nomen (n); Plural: Stadtprogramme.
+560,die Band,band,Das ist die Band.,Nomen (f); Plural: Bande.
+561,der Musiker,musician,Das ist der Musiker.,Nomen (m); Plural: Musiker.
+562,das Telefonat,phone call,Das ist das Telefonat.,Nomen (n); Plural: Telefonate.
+563,das Album,album,Das ist das Album.,Nomen (n); Plural: Alben.
+564,der Anrufbeantworter,answering machine / voicemail,Das ist der Anrufbeantworter.,Nomen (m); Plural: Anrufbeantworter.
+565,das Wissen,knowledge,Das ist das Wissen.,Nomen (n); Plural: Wissene.
+566,die Kompetenz,skills / competence,Das ist die Kompetenz.,Nomen (f); Plural: Kompetenze.
+567,die Hausarbeit,housework,Das ist die Hausarbeit.,Nomen (f); Plural: Hausarbeite.
+568,die moderne Arbeitswelt,modern working world,Das ist die moderne Arbeitswelt.,Nomen (f); Plural: moderne Arbeitswelte.
+569,der Arbeitstag,workday,Das ist der Arbeitstag.,Nomen (m); Plural: Arbeitstage.
+570,der Betrieb,company / operation,Das ist der Betrieb.,Nomen (m); Plural: Betriebe.
+571,die Fabrik,factory,Das ist die Fabrik.,Nomen (f); Plural: Fabrike.
+572,die Maschine,machine,Das ist die Maschine.,Nomen (f); Plural: Maschinen.
+573,der Roboter,robot,Das ist der Roboter.,Nomen (m); Plural: Roboter.
+574,die Digitalisierung,digitalization,Das ist die Digitalisierung.,Nomen (f); Plural: Digitalisierungen.
+575,das Bier,beer,Das ist das Bier.,Nomen (n); Plural: Bier.
+576,der Schritt,step,Das ist der Schritt.,Nomen (m); Plural: Schritte.
+577,das Jahrhundert,century,Das ist das Jahrhundert.,Nomen (n); Plural: Jahrhunderte.
+578,die Zusammenarbeit,cooperation,Das ist die Zusammenarbeit.,Nomen (f); Plural: Zusammenarbeite.
+579,die Aushilfe,temp worker,Das ist die Aushilfe.,Nomen (f); Plural: Aushilfen.
+580,das Verkehrsmittel,means of transport,Das ist das Verkehrsmittel.,Nomen (n); Plural: Verkehrsmittel.
+581,die Gäste,guests,Das ist die Gäste.,Nomen (f); Plural: Gästen.
+582,der Fahrer,driver,Das ist der Fahrer.,Nomen (m); Plural: Fahrer.
+583,das Amt,office / agency,Das ist das Amt.,Nomen (n); Plural: Amte.
+584,die Behörde,authority / government office,Das ist die Behörde.,Nomen (f); Plural: Behörden.
+585,ein paar Dinge,a few things,Ich habe noch ein paar Dinge.,Feste Menge; 'ein paar' = einige.
+586,die Straßenreinigung,street cleaning,Das ist die Straßenreinigung.,Nomen (f); Plural: Straßenreinigungen.
+587,der Antrag,application,Das ist der Antrag.,Nomen (m); Plural: Antrage.
+588,die Ordnung,order,Das ist die Ordnung.,Nomen (f); Plural: Ordnungen.
+589,der Müll,trash / garbage,Das ist der Müll.,Nomen (m); Plural: Mülle.
+590,die Mülltonnen,trash cans,Das ist die Mülltonnen.,Nomen (f); Plural: Mülltonnene.
+591,der Personalausweis,ID card,Das ist der Personalausweis.,Nomen (m); Plural: Personalausweise.
+592,die Stellenanzeige,job ad,Das ist die Stellenanzeige.,Nomen (f); Plural: Stellenanzeigen.
+593,der Pass,passport,Das ist der Pass.,Nomen (m); Plural: Passe.
+594,die Unterlagen,documents / paperwork,Das ist die Unterlagen.,Nomen (f); Plural: Unterlagene.
+595,die Kenntnis,knowledge (specific),Das ist die Kenntnis.,Nomen (f); Plural: Kenntnise.
+596,die Grenze,border,Das ist die Grenze.,Nomen (f); Plural: Grenzen.
+597,die Teilzeit,part-time,Das ist die Teilzeit.,Nomen (f); Plural: Teilzeite.
+598,der Lohn,wage,Das ist der Lohn.,Nomen (m); Plural: Lohne.
+599,der Bescheid,official decision / notice,Das ist der Bescheid.,Nomen (m); Plural: Bescheide.
+600,der Betrag,amount (of money),Das ist der Betrag.,Nomen (m); Plural: Betrage.
+601,der Dom,cathedral,Das ist der Dom.,Nomen (m); Plural: Dome.
+602,die Bankkarte,bank card,Das ist die Bankkarte.,Nomen (f); Plural: Bankkarten.
+603,die Geldbörse,wallet,Das ist die Geldbörse.,Nomen (f); Plural: Geldbörsen.
+604,die Nächste,the next one,Das ist die Nächste.,Nomen (f); Plural: Nächsten.
+605,der Fan,fan,Das ist der Fan.,Nomen (m); Plural: Fane.
+606,der Diebstahl,theft,Das ist der Diebstahl.,Nomen (m); Plural: Diebstahle.
+607,der Daumen,thumb,Das ist der Daumen.,Nomen (m); Plural: Daumene.
+608,die Daumen,thumbs,Das ist die Daumen.,Nomen (f); Plural: Daumene.
+609,die Stadt-Tour,city tour,Das ist die Stadt-Tour.,Nomen (f); Plural: Stadt-Toure.
+610,der Gedanke,thought,Das ist der Gedanke.,Nomen (m); Plural: Gedanken.
+611,der Stadtplan,city map,Das ist der Stadtplan.,Nomen (m); Plural: Stadtplane.
+612,die Ruhe,peace / quiet,Das ist die Ruhe.,Nomen (f); Plural: Ruhen.
+613,der Tourist,tourist,Das ist der Tourist.,Nomen (m); Plural: Touriste.
+614,die Entspannung,relaxation,Das ist die Entspannung.,Nomen (f); Plural: Entspannungen.
+615,die Touristin,(female) tourist,Das ist die Touristin.,Nomen (f); Plural: Touristine.
+616,der Politiker,politician,Das ist der Politiker.,Nomen (m); Plural: Politiker.
+617,die Politikerin,(female) politician,Das ist die Politikerin.,Nomen (f); Plural: Politikerine.
+618,das Parlament,parliament,Das ist das Parlament.,Nomen (n); Plural: Parlamente.
+619,das Gesetz,law,Das ist das Gesetz.,Nomen (n); Plural: Gesetze.
+620,die Verwaltung,administration,Das ist die Verwaltung.,Nomen (f); Plural: Verwaltungen.
+621,das Gebäude,building,Das ist das Gebäude.,Nomen (n); Plural: Gebäuden.
+622,das Wunder,miracle,Das ist das Wunder.,Nomen (n); Plural: Wunder.
+623,der Monat,month,Das ist der Monat.,Nomen (m); Plural: Monate.
+624,die Geburt,birth,Das ist die Geburt.,Nomen (f); Plural: Geburte.
+625,die Laune,mood,Das ist die Laune.,Nomen (f); Plural: Launen.
+626,die Liebe,love,Das ist die Liebe.,Nomen (f); Plural: Lieben.
+627,die Geburtstagsparty,birthday party,Das ist die Geburtstagsparty.,Nomen (f); Plural: Geburtstagspartye.
+628,der Schultag,school day,Das ist der Schultag.,Nomen (m); Plural: Schultage.
+629,die Freude,joy,Das ist die Freude.,Nomen (f); Plural: Freuden.
+630,das Glück,luck,Das ist das Glück.,Nomen (n); Plural: Glücke.
+631,der Club,club,Das ist der Club.,Nomen (m); Plural: Clube.
+632,das Brautpaar,wedding couple,Das ist das Brautpaar.,Nomen (n); Plural: Brautpaare.
+633,der Ring,ring,Das ist der Ring.,Nomen (m); Plural: Ringe.
+634,das Bedauern,regret,Das ist das Bedauern.,Nomen (n); Plural: Bedauerne.
+635,der Sieg,victory,Das ist der Sieg.,Nomen (m); Plural: Siege.
+636,die Medaille,medal,Das ist die Medaille.,Nomen (f); Plural: Medaillen.
+637,das Feuerwerk,fireworks,Das ist das Feuerwerk.,Nomen (n); Plural: Feuerwerke.
+638,die Glückwunschkarte,congratulation card,Das ist die Glückwunschkarte.,Nomen (f); Plural: Glückwunschkarten.
+639,die Karte,card / ticket,Das ist die Karte.,Nomen (f); Plural: Karten.
+640,die Absage,cancellation / rejection,Das ist die Absage.,Nomen (f); Plural: Absagen.
+641,das Gefühl,feeling,Das ist das Gefühl.,Nomen (n); Plural: Gefühle.
+642,das Frühjahr,spring (season),Das ist das Frühjahr.,Nomen (n); Plural: Frühjahre.
+643,das Gegenteil,opposite,Das ist das Gegenteil.,Nomen (n); Plural: Gegenteile.
+644,das Wohnheim,dormitory,Das ist das Wohnheim.,Nomen (n); Plural: Wohnheime.
+645,der Verkehr,traffic,Das ist der Verkehr.,Nomen (m); Plural: Verkehre.
+646,die Party,party,Das ist die Party.,Nomen (f); Plural: Partye.
+647,die Währung,currency,Das ist die Währung.,Nomen (f); Plural: Währungen.
+648,die Studierende,student,Das ist die Studierende.,Nomen (f); Plural: Studierenden.
+649,das Start-Up,start-up,Das ist das Start-Up.,Nomen (n); Plural: Start-Upe.
+650,die Umfrage,survey,Das ist die Umfrage.,Nomen (f); Plural: Umfragen.
+651,der Actionfilm,action film,Das ist der Actionfilm.,Nomen (m); Plural: Actionfilme.
+652,der Fantasy-Film,fantasy film,Das ist der Fantasy-Film.,Nomen (m); Plural: Fantasy-Filme.
+653,die Filmmusik,soundtrack,Das ist die Filmmusik.,Nomen (f); Plural: Filmmusike.
+654,der Thriller,thriller,Das ist der Thriller.,Nomen (m); Plural: Thriller.
+655,der E-Book-Reader,e-book reader,Das ist der E-Book-Reader.,Nomen (m); Plural: E-Book-Reader.
+656,das Smartphone,smartphone,Das ist das Smartphone.,Nomen (n); Plural: Smartphonen.
+657,die Spielekonsole,game console,Das ist die Spielekonsole.,Nomen (f); Plural: Spielekonsolen.
+658,der Bildschirm,screen,Das ist der Bildschirm.,Nomen (m); Plural: Bildschirme.
+659,der Lautsprecher,speaker,Das ist der Lautsprecher.,Nomen (m); Plural: Lautsprecher.
+660,das E-Book,e-book,Das ist das E-Book.,Nomen (n); Plural: E-Booke.
+661,der Laptop,laptop,Das ist der Laptop.,Nomen (m); Plural: Laptope.
+662,das Radio,radio,Das ist das Radio.,Nomen (n); Plural: Radioe.
+663,das Tablet,tablet,Das ist das Tablet.,Nomen (n); Plural: Tablete.
+664,die Tastatur,keyboard,Das ist die Tastatur.,Nomen (f); Plural: Tastature.
+665,die Webseite,website,Das ist die Webseite.,Nomen (f); Plural: Webseiten.
+666,der Kontakt,contact,Das ist der Kontakt.,Nomen (m); Plural: Kontakte.
+667,das Kabel,cable,Das ist das Kabel.,Nomen (n); Plural: Kabel.
+668,der Link,link,Das ist der Link.,Nomen (m); Plural: Linke.
+669,die Freundschaft,friendship,Das ist die Freundschaft.,Nomen (f); Plural: Freundschaften.
+670,die Sorge,worry / concern,Das ist die Sorge.,Nomen (f); Plural: Sorgen.
+671,die Kindheit,childhood,Das ist die Kindheit.,Nomen (f); Plural: Kindheiten.
+672,das Schicksal,fate,Das ist das Schicksal.,Nomen (n); Plural: Schicksale.
+673,der Enkel,grandson,Das ist der Enkel.,Nomen (m); Plural: Enkel.
+674,das Tier,animal,Das ist das Tier.,Nomen (n); Plural: Tier.
+675,die Buchstaben,letters,Das ist die Buchstaben.,Nomen (f); Plural: Buchstabene.
+676,die Hauptperson,main character,Das ist die Hauptperson.,Nomen (f); Plural: Hauptpersone.
+677,die Handlung,plot / story,Das ist die Handlung.,Nomen (f); Plural: Handlungen.
+678,der Humor,humor,Das ist der Humor.,Nomen (m); Plural: Humore.
+679,der Trailer,trailer (film),Das ist der Trailer.,Nomen (m); Plural: Trailer.
+680,das Talent,talent,Das ist das Talent.,Nomen (n); Plural: Talente.
+681,der Witz,joke,Das ist der Witz.,Nomen (m); Plural: Witze.
+682,Das sehe ich anders,I see that differently,Das sehe ich anders.,"Redemittel, um höflich zu widersprechen."
+683,der Berg,mountain,Das ist der Berg.,Nomen (m); Plural: Berge.
+684,die Familie,family,Das ist die Familie.,Nomen (f); Plural: Familien.
+685,der Beruf,profession / job,Das ist der Beruf.,Nomen (m); Plural: Berufe.
+686,die Fahrtkarte,(travel) ticket,Das ist die Fahrtkarte.,Nomen (f); Plural: Fahrtkarten.
+687,die gute Zugverbindung,good train connection,Das ist die gute Zugverbindung.,Nomen (f); Plural: gute Zugverbindungen.
+688,das Visum,visa,Das ist das Visum.,Nomen (n); Plural: Visen.
+689,die Bank,bank,Das ist die Bank.,Nomen (f); Plural: Banke.
+690,bitten,to ask (for) / to request,Ich will bitten.,Verb: bitten.
+691,das Studium,studies / degree course,Das ist das Studium.,Nomen (n); Plural: Studien.
+692,sich ausruhen,to rest,Ich will sich ausruhen.,Verb: sich ausruhen.
+693,entscheiden,to decide,Ich will entscheiden.,Verb: entscheiden.
+694,die Einladung,invitation,Das ist die Einladung.,Nomen (f); Plural: Einladungen.
+695,am nächsten,closest / next,Ich will am nächsten.,Verb: am nächsten.
+696,die Mail,email,Das ist die Mail.,Nomen (f); Plural: Maile.
+697,das Foto,photo,Das ist das Foto.,Nomen (n); Plural: Fotoe.
+698,real,real,Heute ist es real.,Wort/Redemittel.
+699,der Hotelkaufmann,hotel clerk (male),Das ist der Hotelkaufmann.,Nomen (m); Plural: Hotelkaufmanne.
+700,die Krankenschwester,nurse,Das ist die Krankenschwester.,Nomen (f); Plural: Krankenschwester.
+701,die Auszubildende,trainee / apprentice,Das ist die Auszubildende.,Nomen (f); Plural: Auszubildenden.
+702,die Berufserfahrung,work experience,Das ist die Berufserfahrung.,Nomen (f); Plural: Berufserfahrungen.
+703,die Arztpraxis,doctor's office,Das ist die Arztpraxis.,Nomen (f); Plural: Arztpraxise.
+704,die Grundschule,primary school,Das ist die Grundschule.,Nomen (f); Plural: Grundschulen.
+705,die Hauptschule,secondary school (Hauptschule),Das ist die Hauptschule.,Nomen (f); Plural: Hauptschulen.
+706,die Gesamtschule,comprehensive school,Das ist die Gesamtschule.,Nomen (f); Plural: Gesamtschulen.
+707,die Realschule,secondary school (Realschule),Das ist die Realschule.,Nomen (f); Plural: Realschulen.
+708,die Berufsschule,vocational school,Das ist die Berufsschule.,Nomen (f); Plural: Berufsschulen.
+709,das Schulsystem,school system,Das ist das Schulsystem.,Nomen (n); Plural: Schulsysteme.
+710,das Bundesland,federal state,Das ist das Bundesland.,Nomen (n); Plural: Bundeslande.
+711,die Arzthelferin,medical assistant,Das ist die Arzthelferin.,Nomen (f); Plural: Arzthelferine.
+712,das Gymnasium,grammar school (Gymnasium),Das ist das Gymnasium.,Nomen (n); Plural: Gymnasien.
+713,der Altenpfleger,geriatric nurse,Das ist der Altenpfleger.,Nomen (m); Plural: Altenpfleger.
+714,der Englischlehrer,English teacher,Das ist der Englischlehrer.,Nomen (m); Plural: Englischlehrer.
+715,die Hotelkauffrau,hotel clerk (female),Das ist die Hotelkauffrau.,Nomen (f); Plural: Hotelkauffraue.
+716,der Krankenpfleger,nurse (male),Das ist der Krankenpfleger.,Nomen (m); Plural: Krankenpfleger.
+717,die Arbeitswelt,working world,Das ist die Arbeitswelt.,Nomen (f); Plural: Arbeitswelte.
+718,die Erfahrung,experience,Das ist die Erfahrung.,Nomen (f); Plural: Erfahrungen.
+719,das Handwerk,skilled trade / craft,Das ist das Handwerk.,Nomen (n); Plural: Handwerke.
+720,die Werbeagentur,advertising agency,Das ist die Werbeagentur.,Nomen (f); Plural: Werbeagenture.
+721,das Reisebüro,travel agency,Das ist das Reisebüro.,Nomen (n); Plural: Reisebüroe.
+722,die AG,club / working group (AG),Das ist die AG.,Nomen (f); Plural: AGe.
+723,das Au-pair,au pair,Das ist das Au-pair.,Nomen (n); Plural: Au-paire.
+724,der Grafiker,graphic designer,Das ist der Grafiker.,Nomen (m); Plural: Grafiker.
+725,der Azubi,trainee (Azubi),Das ist der Azubi.,Nomen (m); Plural: Azubie.
+726,die Lehre,apprenticeship,Das ist die Lehre.,Nomen (f); Plural: Lehren.
+727,die Messe,trade fair,Das ist die Messe.,Nomen (f); Plural: Messen.
+728,der Schulabschluss,school-leaving qualification,Das ist der Schulabschluss.,Nomen (m); Plural: Schulabschlusse.
+729,der Abschluss,graduation / qualification,Das ist der Abschluss.,Nomen (m); Plural: Abschlusse.
+730,die Direktorin,principal,Das ist die Direktorin.,Nomen (f); Plural: Direktorine.
+731,die Schülerin,pupil / student (female),Das ist die Schülerin.,Nomen (f); Plural: Schülerine.
+732,das Klassenzimmer,classroom,Das ist das Klassenzimmer.,Nomen (n); Plural: Klassenzimmer.
+733,die Unterrichtszeit,lesson time,Das ist die Unterrichtszeit.,Nomen (f); Plural: Unterrichtszeite.
+734,die Cafeteria,cafeteria,Das ist die Cafeteria.,Nomen (f); Plural: Cafeteriae.
+735,der Stundenplan,timetable,Das ist der Stundenplan.,Nomen (m); Plural: Stundenplane.
+736,die Fremdsprache,foreign language,Das ist die Fremdsprache.,Nomen (f); Plural: Fremdsprachen.
+737,die Klassenfahrt,class trip,Das ist die Klassenfahrt.,Nomen (f); Plural: Klassenfahrte.
+738,die Schuluniform,school uniform,Das ist die Schuluniform.,Nomen (f); Plural: Schuluniforme.
+739,die Vorbereitung,preparation,Das ist die Vorbereitung.,Nomen (f); Plural: Vorbereitungen.
+740,der Schulweg,way to school,Das ist der Schulweg.,Nomen (m); Plural: Schulwege.
+741,der Vokabeltest,vocabulary test,Das ist der Vokabeltest.,Nomen (m); Plural: Vokabelteste.
+742,das Abitur,Abitur (school-leaving exam),Das ist das Abitur.,Nomen (n); Plural: Abiture.
+743,das Zeugnis,certificate / report card,Das ist das Zeugnis.,Nomen (n); Plural: Zeugnise.
+744,der Direktor,principal (male),Das ist der Direktor.,Nomen (m); Plural: Direktore.
+745,die Dauer,duration,Das ist die Dauer.,Nomen (f); Plural: Dauer.
+746,die Ferien,holidays / vacation,Das ist die Ferien.,Nomen (f); Plural: Feriene.
+747,der Schüler,pupil / student (male),Das ist der Schüler.,Nomen (m); Plural: Schüler.
+748,das Fach,school subject,Das ist das Fach.,Nomen (n); Plural: Fache.
+749,einhunderteins,one hundred and one (101),Heute ist es einhunderteins.,Wort/Redemittel.
+750,ausschlafen,to sleep in,Ich will ausschlafen.,Verb (trennbar): ausschlafen.
+751,die Grafik,graphic,Das ist die Grafik.,Nomen (f); Plural: Grafike.
+752,die Behinderung,disability,Das ist die Behinderung.,Nomen (f); Plural: Behinderungen.
+753,der Rollstuhl,wheelchair,Das ist der Rollstuhl.,Nomen (m); Plural: Rollstuhle.
+754,die Erholung,recovery / relaxation,Das ist die Erholung.,Nomen (f); Plural: Erholungen.
+755,die Erinnerung,memory,Das ist die Erinnerung.,Nomen (f); Plural: Erinnerungen.
+756,die Weltreise,world trip,Das ist die Weltreise.,Nomen (f); Plural: Weltreisen.
+757,erwachsen,adult / grown-up,Ich will erwachsen.,Verb: erwachsen.
+758,unabhängig,independent,Heute ist es unabhängig.,Wort/Redemittel.
+759,sozial,social,Heute ist es sozial.,Wort/Redemittel.
+760,die Gemeinsamkeit,similarity / common point,Das ist die Gemeinsamkeit.,Nomen (f); Plural: Gemeinsamkeiten.
+761,die Vorlesung,lecture,Das ist die Vorlesung.,Nomen (f); Plural: Vorlesungen.
+762,die Hauptsache,main thing,Das ist die Hauptsache.,Nomen (f); Plural: Hauptsachen.
+763,der Unterschied,difference,Das ist der Unterschied.,Nomen (m); Plural: Unterschiede.
+764,zustimmen,to agree,Ich will zustimmen.,Verb (trennbar): zustimmen.
+765,überraschen,to surprise,Ich will überraschen.,Verb: überraschen.
+766,wenigstens,at least,Heute ist es wenigstens.,Wort/Redemittel.
+767,teilnehmen,to take part,Ich will teilnehmen.,Verb: teilnehmen.
+768,liegen,to lie / be located,Ich will liegen.,Verb: liegen.
+769,empfangen,to receive / welcome,Ich will empfangen.,Verb: empfangen.
+770,der Platz,place / seat,Das ist der Platz.,Nomen (m); Plural: Platze.
+771,der Plan,plan,Das ist der Plan.,Nomen (m); Plural: Plane.
+772,anmelden,to register / sign up,Ich will anmelden.,Verb (trennbar): anmelden.
+773,der Flohmarkt,flea market,Das ist der Flohmarkt.,Nomen (m); Plural: Flohmarkte.
+774,das Sofa,sofa,Das ist das Sofa.,Nomen (n); Plural: Sofae.
+775,der Aufenthalt,stay,Das ist der Aufenthalt.,Nomen (m); Plural: Aufenthalte.
+776,die Reservierung,reservation,Das ist die Reservierung.,Nomen (f); Plural: Reservierungen.
+777,spätestens,at the latest,Heute ist es spätestens.,Wort/Redemittel.
+778,der Verein,club / association,Das ist der Verein.,Nomen (m); Plural: Vereine.
+779,absagen,to cancel,Ich will absagen.,Verb (trennbar): absagen.
+780,zusagen,to accept / confirm,Ich will zusagen.,Verb (trennbar): zusagen.
+781,gemeinsam,together,Heute ist es gemeinsam.,Wort/Redemittel.
+782,organisieren,to organize,Ich will organisieren.,Verb: organisieren.
+783,der Eingang,entrance,Das ist der Eingang.,Nomen (m); Plural: Eingange.
+784,informieren,to inform,Ich will informieren.,Verb: informieren.
+785,weiterhelfen,to help further,Ich will weiterhelfen.,Verb (trennbar): weiterhelfen.
+786,die Zigarette,cigarette,Das ist die Zigarette.,Nomen (f); Plural: Zigaretten.
+787,das WC,toilet,Das ist das WC.,Nomen (n); Plural: WCe.
+788,bitter,bitter,Heute ist es bitter.,Wort/Redemittel.
+789,salzig,salty,Heute ist es salzig.,Wort/Redemittel.
+790,sauer,sour,Heute ist es sauer.,Wort/Redemittel.
+791,scharf,spicy / sharp,Heute ist es scharf.,Wort/Redemittel.
+792,abschließen,to lock / to finish,Ich will abschließen.,Verb (trennbar): abschließen.
+793,die Rentnerin,(female) retiree,Das ist die Rentnerin.,Nomen (f); Plural: Rentnerine.
+794,die Ausbildung,training / apprenticeship,Das ist die Ausbildung.,Nomen (f); Plural: Ausbildungen.
+795,geboren,born,Ich will geboren.,Verb: geboren.
+796,geschieden,divorced,Ich will geschieden.,Verb: geschieden.
+797,der Rentner,retiree,Das ist der Rentner.,Nomen (m); Plural: Rentner.
+798,die Überstunde,overtime hour,Das ist die Überstunde.,Nomen (f); Plural: Überstunden.
+799,der Augenoptiker,optician,Das ist der Augenoptiker.,Nomen (m); Plural: Augenoptiker.
+800,die Bankkauffrau,bank clerk,Das ist die Bankkauffrau.,Nomen (f); Plural: Bankkauffraue.
+801,das Stadtzentrum,city center,Das ist das Stadtzentrum.,Nomen (n); Plural: Stadtzentren.
+802,das Land,country / countryside,Das ist das Land.,Nomen (n); Plural: Lande.
+803,vor,before / in front of,Heute ist es vor.,Wort/Redemittel.
+804,zusammenleben,to live together,Ich will zusammenleben.,Verb (trennbar): zusammenleben.
+805,die Note,grade / mark,Das ist die Note.,Nomen (f); Plural: Noten.
+806,weitersuchen,to keep looking,Ich will weitersuchen.,Verb (trennbar): weitersuchen.
+807,das Apartment,apartment,Das ist das Apartment.,Nomen (n); Plural: Apartmente.
+808,wohnen,to live (reside),Ich will wohnen.,Verb: wohnen.
+809,die Sprache,language,Das ist die Sprache.,Nomen (f); Plural: Sprachen.
+810,fließend,fluent,Heute ist es fließend.,Wort/Redemittel.
+811,die Kollegen,colleagues,Das ist die Kollegen.,Nomen (f); Plural: Kollegene.
+812,die Angst,fear,Das ist die Angst.,Nomen (f); Plural: Angste.
+813,die Sätze,sentences,Das ist die Sätze.,Nomen (f); Plural: Sätzen.
+814,der Gegenstand,object,Das ist der Gegenstand.,Nomen (m); Plural: Gegenstande.
+815,der Sinn,meaning / sense,Das ist der Sinn.,Nomen (m); Plural: Sinne.
+816,der Bruder,brother,Das ist der Bruder.,Nomen (m); Plural: Bruder.
+817,fast,almost,Heute ist es fast.,Wort/Redemittel.
+818,achtundachtzig,eighty-eight (88),Heute ist es achtundachtzig.,Wort/Redemittel.
+819,die andere Währung,other currency,Das ist die andere Währung.,Nomen (f); Plural: andere Währungen.
+820,herunterladen,to download,Ich will herunterladen.,Verb (trennbar): herunterladen.
+821,sein,to be,Heute ist es sein.,Wort/Redemittel.
+822,fahren,to drive / go,Ich will fahren.,Verb: fahren.
+823,fliegen,to fly,Ich will fliegen.,Verb: fliegen.
+824,gehen,to go / walk,Ich will gehen.,Verb: gehen.
+825,unternehmen,to do / undertake,Ich will unternehmen.,Verb: unternehmen.
+826,neutral,neutral,Heute ist es neutral.,Wort/Redemittel.
+827,kommen,to come,Ich will kommen.,Verb: kommen.
+828,sich benehmen,to behave,Ich will sich benehmen.,Verb: sich benehmen.
+829,sympathisch,likeable,Heute ist es sympathisch.,Wort/Redemittel.
+830,zurückgeben,to give back / return,Ich will zurückgeben.,Verb (trennbar): zurückgeben.
+831,vorkommen,to happen / occur,Ich will vorkommen.,Verb (trennbar): vorkommen.
+832,einziehen,to move in,Ich will einziehen.,Verb (trennbar): einziehen.
+833,modisch,fashionable,Heute ist es modisch.,Wort/Redemittel.
+834,weglaufen,to run away,Ich will weglaufen.,Verb (trennbar): weglaufen.
+835,inklusive,including,Heute ist es inklusive.,Wort/Redemittel.
+836,knapp,just / barely,Heute ist es knapp.,Wort/Redemittel.
+837,rufen,to call,Ich will rufen.,Verb: rufen.
+838,dringend,urgent,Heute ist es dringend.,Wort/Redemittel.
+839,genervt,annoyed,Heute ist es genervt.,Wort/Redemittel.
+840,kostenlos,free of charge,Heute ist es kostenlos.,Wort/Redemittel.
+841,nirgends,nowhere,Heute ist es nirgends.,Wort/Redemittel.
+842,ausgesprochen,pronounced / very,Ich will ausgesprochen.,Verb (trennbar): ausgesprochen.
+843,fremd,foreign / strange,Heute ist es fremd.,Wort/Redemittel.
+844,wahr,true,Heute ist es wahr.,Wort/Redemittel.
+845,sterben,to die,Ich will sterben.,Verb: sterben.
+846,gewinnen,to win,Ich will gewinnen.,Verb: gewinnen.
+847,schlafen,to sleep,Ich will schlafen.,Verb: schlafen.
+848,schlagen,to hit / beat,Ich will schlagen.,Verb: schlagen.
+849,vorschlagen,to suggest,Ich will vorschlagen.,Verb (trennbar): vorschlagen.
+850,die Gärtnerin,gardener,Das ist die Gärtnerin.,Nomen (f); Plural: Gärtnerine.
+851,bleiben,to stay,Ich will bleiben.,Verb: bleiben.
+852,tragen,to carry / to wear,Ich will tragen.,Verb: tragen.
+853,treu,loyal,Heute ist es treu.,Wort/Redemittel.
+854,ausfallen,to be cancelled / to break down,Ich will ausfallen.,Verb (trennbar): ausfallen.
+855,geben,to give,Ich will geben.,Verb: geben.
+856,stinken,to stink,Ich will stinken.,Verb: stinken.
+857,hängen,to hang,Ich will hängen.,Verb: hängen.
+858,kennen,to know (a person/place),Ich will kennen.,Verb: kennen.
+859,hergeben,to hand over,Ich will hergeben.,Verb (trennbar): hergeben.
+860,auffallen,to stand out / be noticeable,Ich will auffallen.,Verb (trennbar): auffallen.
+861,mithelfen,to help (out),Ich will mithelfen.,Verb (trennbar): mithelfen.
+862,nehmen,to take,Ich will nehmen.,Verb: nehmen.
+863,abgeben,to hand in / give away,Ich will abgeben.,Verb (trennbar): abgeben.
+864,ausgeben,to spend (money),Ich will ausgeben.,Verb (trennbar): ausgeben.
+865,hochladen,to upload,Ich will hochladen.,Verb (trennbar): hochladen.
