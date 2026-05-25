@@ -1,73 +1,94 @@
 <!doctype html>
 <html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>German A2 Words</title>
-    <link rel="stylesheet" href="./styles.css" />
-  </head>
-  <body>
-    <div class="app" style = "max-width:500px;margin:auto;">
-      <header class="topbar">
-        <div class="title">German A2 Words</div>
-        <button id="endGameBtn" class="ghost" hidden>End game</button>
-      </header>
 
-      <main>
-        <section id="screenSelect" class="screen active">
-          <h1>Choose your bag</h1>
-          <p class="muted">Pick a source to start the game.</p>
-          <div class="bag-grid">
-            <button class="bag" data-bag="main">
-              <span class="bag-title">Main</span>
-              <span class="bag-count" id="countMain">0</span>
-            </button>
-            <button class="bag" data-bag="known">
-              <span class="bag-title">Known</span>
-              <span class="bag-count" id="countKnown">0</span>
-            </button>
-            <button class="bag" data-bag="unknown">
-              <span class="bag-title">Unknown</span>
-              <span class="bag-count" id="countUnknown">0</span>
-            </button>
-          </div>
-          <div class="export">
-            <button id="downloadKnown" class="ghost">Download known_texts.csv</button>
-            <button id="downloadUnknown" class="ghost">Download unknown_texts.csv</button>
-          </div>
-        </section>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>German A2 Words</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
 
-        <section id="screenPlay" class="screen">
-          <div class="card">
-            <div class="badge" id="bagLabel">Main</div>
-            <div class="word" id="wordText">—</div>
-            <div class="actions">
-              <button id="btnKnown" class="btn green">I know it</button>
-              <button id="btnUnknown" class="btn red">Need practice</button>
+<body>
+  <div class="app" style="max-width:500px;margin:auto;">
+    <header class="topbar">
+      <div class="title">German A2 Words</div>
+      <button id="endGameBtn" class="ghost" hidden>End game</button>
+    </header>
+
+    <main>
+      <section id="screenSelect" class="screen active">
+        <h1>Choose your bag</h1>
+        <p class="muted">Pick a source to start the game.</p>
+        <div class="bag-grid">
+          <button class="bag" data-bag="main">
+            <span class="bag-title">Main</span>
+            <span class="bag-count" id="countMain">0</span>
+          </button>
+          <button class="bag" data-bag="known">
+            <span class="bag-title">Known</span>
+            <span class="bag-count" id="countKnown">0</span>
+          </button>
+          <button class="bag" data-bag="unknown">
+            <span class="bag-title">Unknown</span>
+            <span class="bag-count" id="countUnknown">0</span>
+          </button>
+        </div>
+        <div class="export">
+          <button id="downloadKnown" class="ghost">Download known_texts.csv</button>
+          <button id="downloadUnknown" class="ghost">Download unknown_texts.csv</button>
+        </div>
+      </section>
+
+      <section id="screenPlay" class="screen">
+        <div class="card">
+          <div class="badge" id="bagLabel">Main</div>
+          <div class="word" id="wordText">—</div>
+          <div class="actions">
+            <button id="btnKnown" class="btn green">I know it</button>
+            <button id="btnUnknown" class="btn red">Need practice</button>
+          </div>
+          <div id="meaningBox" class="meaning" hidden>
+            <div class="meaning-row">
+              <span class="label">English</span>
+              <span id="meaningEnglish">—</span>
             </div>
-            <div id="meaningBox" class="meaning" hidden>
-              <div class="meaning-row">
-                <span class="label">English</span>
-                <span id="meaningEnglish">—</span>
-              </div>
-              <div class="meaning-row">
-                <span class="label">Example</span>
-                <span id="meaningExample">—</span>
-              </div>
-              <div class="meaning-row">
-                <span class="label">Info</span>
-                <span id="meaningInfo">—</span>
-              </div>
+            <div class="meaning-row">
+              <span class="label">Example</span>
+              <span id="meaningExample">—</span>
             </div>
-            <button id="btnNext" class="btn next" hidden>Next</button>
-            <div id="emptyState" class="muted" hidden>
-              No words in this bag.
+            <div class="meaning-row">
+              <span class="label">Info</span>
+              <span id="meaningInfo">—</span>
             </div>
           </div>
-        </section>
-      </main>
-    </div>
+          <button id="btnNext" class="btn next" hidden>Next</button>
+          <div id="emptyState" class="muted" hidden>
+            No words in this bag.
+          </div>
+        </div>
+      </section>
+    </main>
 
-    <script src="./app.js"></script>
-  </body>
+    <footer style="margin-top:20px; font-size:14px; color:#666;">
+      <div style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:10px;">
+        <div>
+          Made by
+          <a style ="color:cornflowerblue;" href="https://bhuwanadhikari.com.np" target="_blank">Bhuwan</a>
+        </div>
+        <div>
+          All important words from Netzwerk new A2.1 and A2.2
+        </div>
+      </div>
+      <div style="margin-top:6px;">
+        How i built this:
+        <a style ="color:cornflowerblue;" href="https://github.com/bhuwanadhikari/a2-german-words-game" target="_blank">
+          github.com/bhuwanadhikari/a2-german-words-game
+        </a>
+      </div>
+    </footer>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+
 </html>
