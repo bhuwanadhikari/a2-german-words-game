@@ -31,6 +31,11 @@ let knownIds = new Set();
 let unknownIds = new Set();
 let currentBag = "main";
 let currentWord = null;
+const seenIdsByBag = {
+  main: new Set(),
+  known: new Set(),
+  unknown: new Set(),
+};
 
 function parseCSVLine(line) {
   const out = [];
@@ -135,6 +140,26 @@ function getBagIds(bag) {
   return words.map((w) => w.sn);
 }
 
+function getUnseenBagIds(bag) {
+  const ids = getBagIds(bag);
+  const validIds = new Set(ids);
+  const seenIds = seenIdsByBag[bag];
+
+  for (const id of Array.from(seenIds)) {
+    if (!validIds.has(id)) {
+      seenIds.delete(id);
+    }
+  }
+
+  let unseenIds = ids.filter((id) => !seenIds.has(id));
+  if (unseenIds.length === 0 && ids.length > 0) {
+    seenIds.clear();
+    unseenIds = ids;
+  }
+
+  return unseenIds;
+}
+
 function showEmptyState() {
   emptyState.hidden = false;
   btnKnown.disabled = true;
@@ -163,7 +188,7 @@ function showWord(word) {
 }
 
 function pickRandomWord(bag) {
-  const ids = getBagIds(bag);
+  const ids = getUnseenBagIds(bag);
   if (ids.length === 0) {
     showEmptyState();
     return;
@@ -174,6 +199,7 @@ function pickRandomWord(bag) {
     showEmptyState();
     return;
   }
+  seenIdsByBag[bag].add(randomId);
   showWord(word);
 }
 
